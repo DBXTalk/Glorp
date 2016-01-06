@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Tests-CollectionTypeModels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:16",
+	"instvars" : [
+		"id",
+		"name" ],
+	"name" : "GlorpThingOne",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

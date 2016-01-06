@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"new" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"<=" : "guest 10/21/2015 03:16",
+		"addInStorePurchase:" : "guest 10/21/2015 03:16",
+		"addOnlinePurchase:" : "guest 10/21/2015 03:16",
+		"addRental:" : "guest 10/21/2015 03:16",
+		"assertEqual:" : "guest 10/21/2015 03:16",
+		"creditStatus" : "guest 10/21/2015 03:16",
+		"creditStatus:" : "guest 10/21/2015 03:16",
+		"dateOfBirth" : "guest 10/21/2015 03:16",
+		"dateOfBirth:" : "guest 10/21/2015 03:16",
+		"inStorePurchases" : "guest 10/21/2015 03:16",
+		"inStorePurchases:" : "guest 10/21/2015 03:16",
+		"inStoreRentals" : "guest 10/21/2015 03:16",
+		"initialize" : "guest 10/21/2015 03:16",
+		"name" : "guest 10/21/2015 03:16",
+		"name:" : "guest 10/21/2015 03:16",
+		"onlinePurchases" : "guest 10/21/2015 03:16",
+		"onlinePurchases:" : "guest 10/21/2015 03:16",
+		"printOn:" : "guest 10/21/2015 03:16",
+		"purchases" : "guest 10/21/2015 03:16",
+		"store:" : "guest 10/21/2015 03:16",
+		"videoStore" : "guest 10/21/2015 03:16" } }

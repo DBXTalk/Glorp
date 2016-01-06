@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addQuery:" : "TorstenBergmann 1/15/2015 09:14",
+		"baseExpression" : "TorstenBergmann 1/15/2015 09:14",
+		"collectionType" : "TorstenBergmann 1/15/2015 09:14",
+		"copyOfBuilders" : "TorstenBergmann 1/15/2015 09:14",
+		"executeWithParameters:in:" : "TorstenBergmann 1/15/2015 09:14",
+		"initialize" : "guest 10/13/2015 19:31",
+		"postCopy" : "guest 10/13/2015 19:31",
+		"prepare" : "guest 10/13/2015 19:31",
+		"primaryQuery" : "TorstenBergmann 1/15/2015 09:15",
+		"proxyType" : "TorstenBergmann 1/15/2015 09:15",
+		"proxyType:" : "TorstenBergmann 1/15/2015 09:15" } }

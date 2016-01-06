@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"doTest" : "guest 10/21/2015 03:16",
+		"readDocumentAndAttachmentsFrom:" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"allTableNames" : "guest 10/21/2015 03:16",
+		"constructAllClasses" : "guest 10/21/2015 03:16",
+		"tableForATTACHMENT:" : "guest 10/21/2015 03:16",
+		"tableForATTACHMENTBYTES:" : "guest 10/21/2015 03:16",
+		"tableForDOCUMENT:" : "guest 10/21/2015 03:16" } }

@@ -1,0 +1,1 @@
+The database accessor subclass for Dolphin Smalltalk.

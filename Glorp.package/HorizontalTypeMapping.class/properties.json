@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Mappings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"mappedClass",
+		"isAbstract" ],
+	"name" : "HorizontalTypeMapping",
+	"pools" : [
+		 ],
+	"super" : "TypeMapping",
+	"type" : "normal" }

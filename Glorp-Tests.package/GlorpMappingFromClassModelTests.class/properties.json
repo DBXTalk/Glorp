@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"system",
+		"platform" ],
+	"name" : "GlorpMappingFromClassModelTests",
+	"pools" : [
+		 ],
+	"super" : "GlorpTestCase",
+	"type" : "normal" }

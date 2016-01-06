@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Portability",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mourned" ],
+	"name" : "GlorpWeakCacheTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpCacheTest",
+	"type" : "normal" }

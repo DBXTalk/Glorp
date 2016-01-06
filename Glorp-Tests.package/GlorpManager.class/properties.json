@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"branch" ],
+	"name" : "GlorpManager",
+	"pools" : [
+		 ],
+	"super" : "GlorpEmployee",
+	"type" : "normal" }

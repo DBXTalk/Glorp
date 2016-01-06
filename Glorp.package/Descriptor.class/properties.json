@@ -1,0 +1,25 @@
+{
+	"category" : "Glorp-Mappings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"tables",
+		"mappings",
+		"system",
+		"mappedFields",
+		"cachePolicy",
+		"typeResolver",
+		"mapsPrimaryKeys",
+		"keyFields",
+		"classModel",
+		"multipleTableJoin",
+		"imaginaryTableReplacements",
+		"mappingsForFields" ],
+	"name" : "Descriptor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

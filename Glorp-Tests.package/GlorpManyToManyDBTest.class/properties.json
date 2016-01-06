@@ -1,0 +1,19 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"customer",
+		"customerId",
+		"accountId1",
+		"accountId2",
+		"accountId3",
+		"treeNodeClass" ],
+	"name" : "GlorpManyToManyDBTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpMappingDBTest",
+	"type" : "normal" }

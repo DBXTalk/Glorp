@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"example1" : "guest 10/21/2015 03:16",
+		"example2" : "guest 10/21/2015 03:16",
+		"example3" : "guest 10/21/2015 03:16",
+		"example4" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"author" : "guest 10/21/2015 03:16",
+		"author:" : "guest 10/21/2015 03:16",
+		"copiesInStock" : "guest 10/21/2015 03:16",
+		"copiesInStock:" : "guest 10/21/2015 03:16",
+		"description" : "guest 10/21/2015 03:16",
+		"description:" : "guest 10/21/2015 03:16",
+		"id" : "guest 10/21/2015 03:16",
+		"id:" : "guest 10/21/2015 03:16",
+		"title" : "guest 10/21/2015 03:16",
+		"title:" : "guest 10/21/2015 03:16",
+		"version" : "guest 10/21/2015 03:16",
+		"version:" : "guest 10/21/2015 03:16" } }

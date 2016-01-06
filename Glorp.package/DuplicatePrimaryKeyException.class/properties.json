@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"existingObject",
+		"newObject" ],
+	"name" : "DuplicatePrimaryKeyException",
+	"pools" : [
+		 ],
+	"super" : "GlorpError",
+	"type" : "normal" }

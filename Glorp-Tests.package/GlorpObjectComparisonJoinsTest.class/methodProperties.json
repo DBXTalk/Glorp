@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"tearDown" : "guest 10/21/2015 03:16",
+		"testBasicEqualNil" : "guest 10/21/2015 03:16",
+		"testBasicNotNil" : "guest 10/21/2015 03:16",
+		"testEqualNil" : "guest 10/21/2015 03:16",
+		"testEqualToIdsInExpression" : "guest 10/21/2015 03:16",
+		"testEqualToObjectInExpression" : "guest 10/21/2015 03:16",
+		"testEqualToObjectInMemory" : "guest 10/21/2015 03:16",
+		"testNotEqualToObjectInExpression" : "guest 10/21/2015 03:16",
+		"testNotEqualToObjectInMemory" : "guest 10/21/2015 03:16",
+		"testNotNil" : "guest 10/21/2015 03:16" } }

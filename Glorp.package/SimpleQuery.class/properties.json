@@ -1,0 +1,19 @@
+{
+	"category" : "Glorp-Queries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"builders",
+		"fields",
+		"joins",
+		"tablePrefix",
+		"customCommand",
+		"tablesToPrint" ],
+	"name" : "SimpleQuery",
+	"pools" : [
+		 ],
+	"super" : "AbstractReadQuery",
+	"type" : "normal" }

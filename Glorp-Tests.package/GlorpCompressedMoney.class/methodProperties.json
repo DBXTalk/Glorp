@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"currency:amount:" : "guest 10/21/2015 03:16",
+		"defaultCurrency" : "guest 10/21/2015 03:16",
+		"forAmount:" : "guest 10/21/2015 03:16",
+		"new" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"amount" : "guest 10/21/2015 03:16",
+		"amount:" : "guest 10/21/2015 03:16",
+		"currency" : "guest 10/21/2015 03:16",
+		"currency:" : "guest 10/21/2015 03:16",
+		"id" : "guest 10/21/2015 03:16",
+		"id:" : "guest 10/21/2015 03:16",
+		"initialize" : "guest 10/21/2015 03:16",
+		"printOn:" : "guest 10/21/2015 03:16" } }

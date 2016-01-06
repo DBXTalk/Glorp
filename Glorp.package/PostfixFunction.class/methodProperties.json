@@ -1,0 +1,6 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"printSQLOn:withParameters:" : "guest 10/13/2015 19:31",
+		"printUnqualifiedSQLOn:withParameters:" : "guest 10/13/2015 19:31" } }

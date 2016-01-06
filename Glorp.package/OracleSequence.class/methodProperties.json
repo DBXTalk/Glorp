@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"alwaysGetFromDb" : "guest 10/13/2015 19:31",
+		"backupReserveCommand:in:" : "guest 10/13/2015 19:31",
+		"creationString" : "guest 10/13/2015 19:31",
+		"getSequenceValueFromDatabaseFor:in:using:" : "guest 10/13/2015 19:31",
+		"initialize" : "guest 10/13/2015 19:31",
+		"name:" : "guest 10/13/2015 19:31",
+		"nextSequenceNumber:" : "guest 10/13/2015 19:31",
+		"nextSequenceNumberSelectString" : "guest 10/13/2015 19:31",
+		"postWriteAssignSequenceValueFor:in:using:" : "guest 10/13/2015 19:31",
+		"reserveViaBackupMechanism:in:" : "guest 10/13/2015 19:31",
+		"reserveViaTableSelect:in:for:" : "guest 10/13/2015 19:31",
+		"sequenceIncrement" : "guest 10/13/2015 19:31",
+		"sequenceIncrement:" : "guest 10/13/2015 19:31",
+		"tableSelectCommandFor:in:reserving:" : "guest 10/13/2015 19:31" } }

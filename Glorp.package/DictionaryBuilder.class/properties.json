@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Queries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"keyBuilder",
+		"valueBuilder" ],
+	"name" : "DictionaryBuilder",
+	"pools" : [
+		 ],
+	"super" : "ElementBuilder",
+	"type" : "normal" }

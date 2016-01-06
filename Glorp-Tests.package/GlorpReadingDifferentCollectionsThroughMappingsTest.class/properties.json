@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"system",
+		"session" ],
+	"name" : "GlorpReadingDifferentCollectionsThroughMappingsTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpTestCase",
+	"type" : "normal" }

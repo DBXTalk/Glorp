@@ -1,0 +1,10 @@
+SystemOrganization addCategory: #Glorp!
+SystemOrganization addCategory: 'Glorp-Core'!
+SystemOrganization addCategory: 'Glorp-Database'!
+SystemOrganization addCategory: 'Glorp-Database-Platforms'!
+SystemOrganization addCategory: 'Glorp-Database-Types'!
+SystemOrganization addCategory: 'Glorp-Exceptions'!
+SystemOrganization addCategory: 'Glorp-Expressions'!
+SystemOrganization addCategory: 'Glorp-Mappings'!
+SystemOrganization addCategory: 'Glorp-Queries'!
+SystemOrganization addCategory: 'Glorp-Unit-Of-Work'!

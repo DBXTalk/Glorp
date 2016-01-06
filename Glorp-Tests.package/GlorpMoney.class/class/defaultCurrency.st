@@ -1,0 +1,4 @@
+*GlorpTest
+defaultCurrency
+
+	^#CDN.

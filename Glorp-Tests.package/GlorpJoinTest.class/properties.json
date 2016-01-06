@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expression",
+		"compoundExpression" ],
+	"name" : "GlorpJoinTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpDatabaseBasedTest",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"attributeName:" : "TorstenBergmann 1/15/2015 17:22",
+		"attributeName:referenceClass:" : "TorstenBergmann 1/15/2015 17:23",
+		"buildQuery" : "TorstenBergmann 1/15/2015 17:23",
+		"buildRowMapKeyForSource:target:index:" : "TorstenBergmann 1/15/2015 17:23",
+		"convertedDbValueOf:" : "TorstenBergmann 1/15/2015 17:23",
+		"descriptor:" : "TorstenBergmann 1/15/2015 17:23",
+		"field" : "TorstenBergmann 1/15/2015 17:23",
+		"glorpCanHaveDescriptorDirectly" : "TorstenBergmann 1/15/2015 17:23",
+		"join:" : "TorstenBergmann 1/15/2015 17:23",
+		"mapsSimpleObject" : "TorstenBergmann 1/15/2015 17:23",
+		"needsSpecialRowMapKey" : "TorstenBergmann 1/15/2015 17:23",
+		"pseudoDescriptor" : "TorstenBergmann 1/15/2015 17:23",
+		"referenceClass" : "TorstenBergmann 1/15/2015 17:23",
+		"resultField" : "TorstenBergmann 1/15/2015 17:23",
+		"resultField:" : "TorstenBergmann 1/15/2015 17:23",
+		"validate" : "guest 10/13/2015 19:31",
+		"writeExtraInformationInto:atKey:forSourceObject:targetObject:atIndex:" : "TorstenBergmann 1/15/2015 17:23" } }

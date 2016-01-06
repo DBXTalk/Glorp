@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"forQuery:parameters:" : "guest 10/21/2015 03:17",
+		"forQuery:parameters:useBinding:session:" : "guest 10/21/2015 03:17" },
+	"instance" : {
+		"blockFactor:" : "guest 10/13/2015 19:31",
+		"canBind:to:" : "guest 10/13/2015 19:31",
+		"isReadCommand" : "guest 10/13/2015 19:31",
+		"parameterTypeSignature" : "guest 10/13/2015 19:31",
+		"parameters" : "guest 10/13/2015 19:31",
+		"parameters:" : "guest 10/13/2015 19:31",
+		"printSQL" : "guest 10/13/2015 19:31",
+		"succeeded" : "guest 10/13/2015 19:31" } }

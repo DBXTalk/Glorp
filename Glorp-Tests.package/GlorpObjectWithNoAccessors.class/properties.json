@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alue" ],
+	"name" : "GlorpObjectWithNoAccessors",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

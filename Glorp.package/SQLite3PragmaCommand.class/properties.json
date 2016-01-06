@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 1/13/2015 20:20",
+	"instvars" : [
+		 ],
+	"name" : "SQLite3PragmaCommand",
+	"pools" : [
+		 ],
+	"super" : "SQLStringSelectCommand",
+	"type" : "normal" }

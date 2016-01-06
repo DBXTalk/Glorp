@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addEmptyDescriptorFor:" : "guest 10/13/2015 19:31",
+		"addEmptyTableNamed:" : "guest 10/13/2015 19:31",
+		"allClasses" : "guest 10/13/2015 19:31",
+		"allTableNames" : "guest 10/13/2015 19:31",
+		"attributeNameToFieldNameBlock:" : "guest 10/13/2015 19:31",
+		"fieldNameForAttributeName:" : "guest 10/13/2015 19:31",
+		"initializeClassModel:" : "guest 10/13/2015 19:31",
+		"privateDescriptorAt:put:" : "TorstenBergmann 1/15/2015 10:27",
+		"privateTableAt:put:" : "TorstenBergmann 1/15/2015 10:28" } }

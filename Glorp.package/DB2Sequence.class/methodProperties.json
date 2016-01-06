@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"backupReserveCommand:in:" : "guest 10/13/2015 19:31",
+		"creationString" : "guest 10/13/2015 19:31",
+		"name:" : "guest 10/13/2015 19:31",
+		"nextSequenceNumberSelectString" : "guest 10/13/2015 19:31",
+		"tableSelectCommandFor:in:reserving:" : "guest 10/13/2015 19:31" } }

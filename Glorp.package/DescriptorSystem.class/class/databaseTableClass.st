@@ -1,0 +1,4 @@
+*Glorp
+databaseTableClass
+
+	^DatabaseTable

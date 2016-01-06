@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlorpTimedStrongCacheTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpCacheTest",
+	"type" : "normal" }

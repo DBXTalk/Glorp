@@ -1,0 +1,4 @@
+types
+serial
+
+	^self sequence

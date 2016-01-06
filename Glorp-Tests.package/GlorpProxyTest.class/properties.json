@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"session",
+		"proxy" ],
+	"name" : "GlorpProxyTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpTestCase",
+	"type" : "normal" }

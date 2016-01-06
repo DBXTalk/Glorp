@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"location" ],
+	"name" : "GlorpImage",
+	"pools" : [
+		 ],
+	"super" : "GlorpTaggableObject",
+	"type" : "normal" }

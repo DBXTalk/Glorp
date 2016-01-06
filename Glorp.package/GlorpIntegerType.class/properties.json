@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Database-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 1/13/2015 20:22",
+	"instvars" : [
+		 ],
+	"name" : "GlorpIntegerType",
+	"pools" : [
+		 ],
+	"super" : "GlorpAbstractIntegerType",
+	"type" : "normal" }

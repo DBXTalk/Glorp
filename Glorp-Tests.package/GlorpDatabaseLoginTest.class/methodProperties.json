@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"resources" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"accessor" : "guest 10/21/2015 03:16",
+		"setUp" : "guest 10/21/2015 03:16",
+		"testLogin" : "guest 10/21/2015 03:16",
+		"testSecureLoginDiscardsPassword" : "guest 10/21/2015 03:16",
+		"testUnsecureLoginDoesNotDiscardPassword" : "guest 10/21/2015 03:16",
+		"testUnsuccessfulLogin" : "guest 10/21/2015 03:16" } }

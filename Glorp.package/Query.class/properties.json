@@ -1,0 +1,21 @@
+{
+	"category" : "Glorp-Queries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"session",
+		"prepared",
+		"expectedRows",
+		"collectionType",
+		"ordering",
+		"maximumLobSizeToRetrieveDirectly",
+		"readsOneObject",
+		"grouping" ],
+	"name" : "Query",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

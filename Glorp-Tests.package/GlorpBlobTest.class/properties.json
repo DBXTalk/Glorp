@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-DatabaseTypes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlorpBlobTest",
+	"pools" : [
+		 ],
+	"super" : "AbstractLOBTest",
+	"type" : "normal" }

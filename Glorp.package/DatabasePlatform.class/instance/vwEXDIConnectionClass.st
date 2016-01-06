@@ -1,0 +1,3 @@
+accessing
+vwEXDIConnectionClass
+	^self subclassResponsibility

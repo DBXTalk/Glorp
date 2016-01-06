@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"block",
+		"numberOfArguments" ],
+	"name" : "AdHocVersionGenerator",
+	"pools" : [
+		 ],
+	"super" : "VersionGenerator",
+	"type" : "normal" }

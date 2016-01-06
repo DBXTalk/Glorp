@@ -1,0 +1,17 @@
+{
+	"category" : "Glorp-Mappings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"field",
+		"converter",
+		"shouldProxy",
+		"query" ],
+	"name" : "DirectMapping",
+	"pools" : [
+		 ],
+	"super" : "Mapping",
+	"type" : "normal" }

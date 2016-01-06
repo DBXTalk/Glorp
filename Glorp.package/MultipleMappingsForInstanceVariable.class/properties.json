@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"attributeNames",
+		"readableMappings" ],
+	"name" : "MultipleMappingsForInstanceVariable",
+	"pools" : [
+		 ],
+	"super" : "ValidationError",
+	"type" : "normal" }

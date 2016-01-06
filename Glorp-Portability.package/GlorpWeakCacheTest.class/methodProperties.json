@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkCacheExhaustivelyFor:" : "guest 10/21/2015 03:16",
+		"checkCacheFor:" : "guest 10/21/2015 03:16",
+		"doesCacheExhaustivelySatisfy:" : "guest 10/21/2015 03:16",
+		"doesCacheSatisfy:" : "guest 10/21/2015 03:16",
+		"initialize" : "guest 10/21/2015 03:16",
+		"mournKeyOf:" : "guest 10/21/2015 03:16",
+		"setUp" : "guest 10/21/2015 03:16",
+		"testEphemeralValue" : "guest 10/21/2015 03:16",
+		"testEphemeralValueDictionary" : "guest 10/21/2015 03:16",
+		"testEphemeron" : "guest 10/21/2015 03:16",
+		"testEphemeronDictionary" : "guest 10/21/2015 03:16",
+		"testLargeWeakDictionary" : "guest 10/21/2015 03:16",
+		"testUnreferencedExcessObjectsAreRemoved" : "guest 10/21/2015 03:16",
+		"testUnreferencedObjectsAreRemoved" : "guest 10/21/2015 03:16",
+		"testUnreferencedObjectsAreRemovedInTheRightOrder" : "guest 10/21/2015 03:16",
+		"testUnreferencedObjectsNotRemovedDueToExtraReferences" : "guest 10/21/2015 03:16" } }

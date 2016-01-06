@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"timeout" ],
+	"name" : "TimedStrongCachePolicy",
+	"pools" : [
+		 ],
+	"super" : "CachePolicy",
+	"type" : "normal" }

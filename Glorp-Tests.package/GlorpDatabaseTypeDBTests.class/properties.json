@@ -1,0 +1,17 @@
+{
+	"category" : "Glorp-Tests-DatabaseTypes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"stType",
+		"connection",
+		"session" ],
+	"name" : "GlorpDatabaseTypeDBTests",
+	"pools" : [
+		 ],
+	"super" : "GlorpTestCase",
+	"type" : "normal" }

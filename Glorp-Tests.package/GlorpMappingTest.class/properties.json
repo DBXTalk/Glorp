@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rowMap" ],
+	"name" : "GlorpMappingTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpDatabaseBasedTest",
+	"type" : "normal" }

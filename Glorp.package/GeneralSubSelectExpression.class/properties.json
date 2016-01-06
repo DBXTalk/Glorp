@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Expressions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"query",
+		"base" ],
+	"name" : "GeneralSubSelectExpression",
+	"pools" : [
+		 ],
+	"super" : "GlorpExpression",
+	"type" : "normal" }

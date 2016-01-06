@@ -1,0 +1,1 @@
+This is a platform for Adabas and related databases.

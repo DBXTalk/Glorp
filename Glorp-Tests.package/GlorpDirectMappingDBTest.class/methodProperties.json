@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"readPerson" : "guest 10/21/2015 03:16",
+		"testMappingToSubselect" : "guest 10/21/2015 03:16",
+		"testReadWithDirectFieldReference" : "guest 10/21/2015 03:16",
+		"testReadWithPseudoVariableMapping" : "guest 10/21/2015 03:16",
+		"testUpdate" : "guest 10/21/2015 03:16",
+		"testUpdateWithDefaultValue" : "guest 10/21/2015 03:16",
+		"testWriteWithDefaultValue" : "guest 10/21/2015 03:16",
+		"writeAddress" : "guest 10/21/2015 03:16",
+		"writeHomefulPerson" : "guest 10/21/2015 03:16",
+		"writeHomelessPerson" : "guest 10/21/2015 03:16",
+		"writePersonWithEmailAddresses" : "guest 10/21/2015 03:16" } }

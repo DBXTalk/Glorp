@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allTableNames" : "guest 10/21/2015 03:16",
+		"classModelForGlorpTaskedWorker:" : "guest 10/21/2015 03:16",
+		"classModelForGlorpWorkerTask:" : "guest 10/21/2015 03:16",
+		"constructAllClasses" : "guest 10/21/2015 03:16",
+		"descriptorForGlorpTaskedWorker:" : "guest 10/21/2015 03:16",
+		"descriptorForGlorpWorkerTask:" : "guest 10/21/2015 03:16",
+		"tableForGLORP_TASKED_WORKER:" : "guest 10/21/2015 03:16",
+		"tableForGLORP_TWO_WAY_LINK:" : "guest 10/21/2015 03:16",
+		"tableForGLORP_WORKER_TASK:" : "guest 10/21/2015 03:16" } }

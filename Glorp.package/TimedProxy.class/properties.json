@@ -1,0 +1,18 @@
+{
+	"category" : "Glorp-Queries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"id",
+		"reaper",
+		"secondsToLive",
+		"timeToDie",
+		"association" ],
+	"name" : "TimedProxy",
+	"pools" : [
+		 ],
+	"super" : "Proxy",
+	"type" : "normal" }

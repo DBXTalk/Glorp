@@ -1,0 +1,1 @@
+This is a platform for the Microsoft Access database. It subclasses from SQL Server, because the two have a number of characteristics in common.

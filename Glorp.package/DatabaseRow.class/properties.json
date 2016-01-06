@@ -1,0 +1,24 @@
+{
+	"category" : "Glorp-Database",
+	"classinstvars" : [
+		"missingFieldIndicator",
+		"emptySlot" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"table",
+		"contents",
+		"shouldBeWritten",
+		"owner",
+		"forDeletion",
+		"status",
+		"oldVersion",
+		"generated",
+		"parent",
+		"operation" ],
+	"name" : "DatabaseRow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

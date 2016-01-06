@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultLogin" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accessor",
+		"login" ],
+	"name" : "GlorpDatabaseLoginResource",
+	"pools" : [
+		 ],
+	"super" : "TestResource",
+	"type" : "normal" }

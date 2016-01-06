@@ -1,0 +1,22 @@
+{
+	"category" : "Glorp-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"table",
+		"name",
+		"isPrimaryKey",
+		"position",
+		"type",
+		"isNullable",
+		"isUnique",
+		"isLockKey",
+		"defaultValue" ],
+	"name" : "DatabaseField",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

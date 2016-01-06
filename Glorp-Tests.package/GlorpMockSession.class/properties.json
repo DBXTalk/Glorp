@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rows" ],
+	"name" : "GlorpMockSession",
+	"pools" : [
+		 ],
+	"super" : "GlorpSession",
+	"type" : "normal" }

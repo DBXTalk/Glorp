@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applicableMappingForObject:" : "TorstenBergmann 1/15/2015 17:20",
+		"applicableMappingForRow:in:" : "TorstenBergmann 1/15/2015 17:20",
+		"buildQuery" : "guest 10/13/2015 19:31",
+		"conditional" : "guest 10/13/2015 19:31",
+		"conditional:" : "guest 10/13/2015 19:31",
+		"conditionalField:" : "TorstenBergmann 1/15/2015 17:20",
+		"conditionalMethod:" : "TorstenBergmann 1/15/2015 17:20",
+		"forField:attribute:if:useMapping:" : "TorstenBergmann 1/15/2015 17:20",
+		"if:then:" : "TorstenBergmann 1/15/2015 17:20",
+		"mapOneFromObject:toTarget:intermediate:atPosition:puttingRowsIn:" : "TorstenBergmann 1/15/2015 17:20",
+		"mappedFields" : "guest 10/13/2015 19:31",
+		"newMapping:" : "TorstenBergmann 1/15/2015 17:20",
+		"otherwise:" : "TorstenBergmann 1/15/2015 17:20",
+		"parametersIn:" : "TorstenBergmann 1/15/2015 17:20",
+		"rowMapKeyForSource:target:index:" : "TorstenBergmann 1/15/2015 17:20" } }

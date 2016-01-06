@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-DatabaseTypes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlorpIntegerTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpDatabaseTypeIndividualDBTests",
+	"type" : "normal" }

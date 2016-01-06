@@ -1,0 +1,4 @@
+accessing
+isLoggedIn
+
+	^connection notNil.

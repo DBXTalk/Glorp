@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultDatabaseType" : "guest 10/21/2015 03:16",
+		"longString" : "guest 10/21/2015 03:16",
+		"string255" : "guest 10/21/2015 03:16",
+		"testLargeText" : "guest 10/21/2015 03:16",
+		"testSymbol" : "guest 10/21/2015 03:16",
+		"testText" : "guest 10/21/2015 03:16" } }

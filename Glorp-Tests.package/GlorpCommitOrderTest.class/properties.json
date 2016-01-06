@@ -1,0 +1,20 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"t1",
+		"t2",
+		"t3",
+		"t1id",
+		"t2id",
+		"t3id",
+		"platform" ],
+	"name" : "GlorpCommitOrderTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpDatabaseBasedTest",
+	"type" : "normal" }

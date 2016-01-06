@@ -1,0 +1,17 @@
+{
+	"category" : "Glorp-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"row",
+		"allRows",
+		"rowCount",
+		"failed" ],
+	"name" : "RowBasedCommand",
+	"pools" : [
+		 ],
+	"super" : "DatabaseCommand",
+	"type" : "normal" }

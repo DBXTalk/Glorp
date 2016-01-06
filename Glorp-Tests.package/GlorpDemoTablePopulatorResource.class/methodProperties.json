@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"invalidateSetup" : "guest 10/21/2015 03:16",
+		"needsSetup" : "guest 10/21/2015 03:16",
+		"needsSetup:" : "guest 10/21/2015 03:16",
+		"resources" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"populateStuffTable" : "guest 10/21/2015 03:16",
+		"setUp" : "EstebanMaringolo 10/27/2015 15:22",
+		"setUpSystem:" : "EstebanMaringolo 1/5/2016 14:44" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "Glorp-Expressions",
+	"classinstvars" : [
+		"functions" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"function",
+		"base",
+		"alias",
+		"symbol",
+		"type" ],
+	"name" : "FunctionExpression",
+	"pools" : [
+		 ],
+	"super" : "GlorpExpression",
+	"type" : "normal" }

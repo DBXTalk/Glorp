@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"object",
+		"expectedType" ],
+	"name" : "GlorpInvalidTypeError",
+	"pools" : [
+		 ],
+	"super" : "GlorpError",
+	"type" : "normal" }

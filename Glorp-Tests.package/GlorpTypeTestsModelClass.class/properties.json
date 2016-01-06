@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"test" ],
+	"name" : "GlorpTypeTestsModelClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

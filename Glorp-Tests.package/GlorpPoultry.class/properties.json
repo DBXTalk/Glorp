@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"featherColor" ],
+	"name" : "GlorpPoultry",
+	"pools" : [
+		 ],
+	"super" : "GlorpPerishableItem",
+	"type" : "normal" }

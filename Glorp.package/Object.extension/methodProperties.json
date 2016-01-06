@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asGlorpExpression" : "guest 10/21/2015 03:17",
+		"asGlorpExpressionOn:" : "guest 10/21/2015 03:17",
+		"asGlorpExpressionOn:basedOn:withUltimateBase:" : "guest 10/21/2015 03:17",
+		"glorpBasicSize" : "guest 10/21/2015 03:17",
+		"glorpCanHaveDescriptorDirectly" : "guest 10/21/2015 03:17",
+		"glorpCopyIn:" : "GuillermoPolito 4/26/2011 03:17",
+		"glorpEndOfIndexedInstVars" : "GuillermoPolito 4/26/2011 03:17",
+		"glorpIsBlock" : "GuillermoPolito 4/26/2011 03:17",
+		"glorpIsCollection" : "guest 10/21/2015 03:17",
+		"glorpPostFetch:" : "guest 10/21/2015 03:17",
+		"glorpPostFetchValidate:" : "guest 10/21/2015 03:17",
+		"glorpPostWrite:" : "guest 10/21/2015 03:17",
+		"glorpPreWrite:" : "guest 10/21/2015 03:17",
+		"glorpPrintSQLOn:" : "guest 10/21/2015 03:17",
+		"glorpPrintSelectSQLOn:" : "guest 10/21/2015 03:17",
+		"glorpRealObject" : "guest 10/21/2015 03:17",
+		"glorpStartOfIndexedInstVars" : "GuillermoPolito 4/26/2011 03:18",
+		"isGlorpExpression" : "guest 10/21/2015 03:17",
+		"isGlorpProxy" : "guest 10/21/2015 03:17",
+		"needsWork:" : "guest 10/21/2015 03:17",
+		"todo" : "guest 10/21/2015 03:17",
+		"yourSelf" : "guest 10/21/2015 03:17" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Glorp-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"underlyingType",
+		"generator",
+		"generatesOverExistingValues" ],
+	"name" : "VersionType",
+	"pools" : [
+		 ],
+	"super" : "GlorpDatabaseType",
+	"type" : "normal" }

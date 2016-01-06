@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlorpDemoDescriptorSystem",
+	"pools" : [
+		 ],
+	"super" : "GlorpTestDescriptorSystem",
+	"type" : "normal" }

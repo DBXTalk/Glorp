@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultDriver" ],
+	"commentStamp" : "TorstenBergmann 1/13/2015 20:18",
+	"instvars" : [
+		"isInTransaction",
+		"databaseDriver" ],
+	"name" : "PharoDatabaseAccessor",
+	"pools" : [
+		 ],
+	"super" : "DatabaseAccessor",
+	"type" : "normal" }

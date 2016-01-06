@@ -1,0 +1,22 @@
+{
+	"category" : "Glorp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LoggingEnabled" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"connection",
+		"currentLogin",
+		"logging",
+		"reusePreparedStatements",
+		"deniedCommands",
+		"mutex",
+		"dependents",
+		"logOnly",
+		"logger" ],
+	"name" : "DatabaseAccessor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

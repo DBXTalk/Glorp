@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"testIntegerToInteger" : "guest 10/21/2015 03:16",
+		"testIntegerToIntegerishNumber" : "guest 10/21/2015 03:16",
+		"testIntegerToNumber" : "guest 10/21/2015 03:16",
+		"testIntegerishNumberToNumber" : "guest 10/21/2015 03:16",
+		"testNumberToNumber" : "guest 10/21/2015 03:16" } }

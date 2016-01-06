@@ -1,0 +1,20 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"session",
+		"currentObject",
+		"currentObjectRowMap",
+		"correspondenceMap",
+		"differenceMap",
+		"mementoObject",
+		"mementoObjectRowMap" ],
+	"name" : "GlorpRowDifferencingTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpDatabaseBasedTest",
+	"type" : "normal" }

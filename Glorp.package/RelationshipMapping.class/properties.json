@@ -1,0 +1,26 @@
+{
+	"category" : "Glorp-Mappings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"query",
+		"join",
+		"usesLinkTable",
+		"shouldProxy",
+		"linkTableJoin",
+		"targetTableJoin",
+		"reverseJoin",
+		"shouldUseFilteredRead",
+		"rowMapKeyConstructorBlock",
+		"controlsTables",
+		"isExclusive",
+		"linkFields",
+		"proxyAction" ],
+	"name" : "RelationshipMapping",
+	"pools" : [
+		 ],
+	"super" : "Mapping",
+	"type" : "normal" }

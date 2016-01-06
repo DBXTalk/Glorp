@@ -1,0 +1,3 @@
+exdi specific
+exdiType
+	^#ByteArray.

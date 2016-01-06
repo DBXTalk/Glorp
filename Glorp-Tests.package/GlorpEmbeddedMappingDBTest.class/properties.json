@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:16",
+	"instvars" : [
+		 ],
+	"name" : "GlorpEmbeddedMappingDBTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpMappingDBTest",
+	"type" : "normal" }

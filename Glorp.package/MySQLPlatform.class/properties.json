@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Database-Platforms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"engine" ],
+	"name" : "MySQLPlatform",
+	"pools" : [
+		 ],
+	"super" : "DatabasePlatform",
+	"type" : "normal" }

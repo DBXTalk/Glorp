@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"resources" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"customerStream" : "guest 10/21/2015 03:16",
+		"joinedStream" : "guest 10/21/2015 03:16",
+		"joinedStream2" : "guest 10/21/2015 03:16",
+		"joinedStreamToMany" : "guest 10/21/2015 03:16",
+		"joinedStreamToMany3" : "guest 10/21/2015 03:16",
+		"mockStream" : "guest 10/21/2015 03:16",
+		"mockStream2" : "guest 10/21/2015 03:16",
+		"setUp" : "guest 10/21/2015 03:16",
+		"testBuilderIsolation" : "guest 10/21/2015 03:16",
+		"testCollect" : "guest 10/21/2015 03:16",
+		"testKnittingWithAlsoFetch" : "guest 10/21/2015 03:16",
+		"testKnittingWithAlsoFetchDoubleToMany" : "guest 10/21/2015 03:16",
+		"testKnittingWithAlsoFetchToManyInSingleGroup" : "guest 10/21/2015 03:16",
+		"testKnittingWithRetrieve" : "guest 10/21/2015 03:16",
+		"testNext" : "guest 10/21/2015 03:16",
+		"testNextColon" : "guest 10/21/2015 03:16",
+		"testPostFetchEvents" : "guest 10/21/2015 03:16",
+		"testReadEmpty" : "guest 10/21/2015 03:16",
+		"testRegistration" : "guest 10/21/2015 03:16",
+		"testRelease" : "guest 10/21/2015 03:16",
+		"testUpToEnd" : "guest 10/21/2015 03:16" } }

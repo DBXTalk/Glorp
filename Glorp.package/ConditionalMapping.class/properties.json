@@ -1,0 +1,18 @@
+{
+	"category" : "Glorp-Mappings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"conditionalField",
+		"conditionalMethod",
+		"cases",
+		"otherwiseCase",
+		"conditionalFieldMapping" ],
+	"name" : "ConditionalMapping",
+	"pools" : [
+		 ],
+	"super" : "Mapping",
+	"type" : "normal" }

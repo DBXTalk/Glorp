@@ -1,0 +1,3 @@
+accessing
+numberOfPreparedStatements
+	^preparedStatements numberOfElements.

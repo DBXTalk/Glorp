@@ -1,0 +1,19 @@
+{
+	"category" : "Glorp-Database-Platforms",
+	"classinstvars" : [
+		"converterRepository" ],
+	"classvars" : [
+		"UseBindingIfSupported" ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"types",
+		"converters",
+		"useBinding",
+		"reservedWords",
+		"functions",
+		"characterEncoding" ],
+	"name" : "DatabasePlatform",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

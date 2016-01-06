@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"tearDown" : "guest 10/21/2015 03:16",
+		"testBasicRead" : "guest 10/21/2015 03:16",
+		"testCache" : "guest 10/21/2015 03:16",
+		"testNoWriteValidation" : "guest 10/21/2015 03:16",
+		"testReadQueryingAttributes" : "guest 10/21/2015 03:16",
+		"testRelationships" : "guest 10/21/2015 03:16" } }

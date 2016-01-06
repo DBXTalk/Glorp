@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Database-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 1/13/2015 20:21",
+	"instvars" : [
+		"precision",
+		"scale" ],
+	"name" : "GlorpNumericType",
+	"pools" : [
+		 ],
+	"super" : "GlorpAbstractNumericType",
+	"type" : "normal" }

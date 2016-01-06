@@ -1,0 +1,19 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rowMap",
+		"a1",
+		"b1",
+		"table1",
+		"row2",
+		"platform" ],
+	"name" : "GlorpRowMapTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpTestCase",
+	"type" : "normal" }

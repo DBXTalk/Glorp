@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Database-Platforms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PierceNg 3/31/2015 21:02",
+	"instvars" : [
+		 ],
+	"name" : "NBSQLite3Platform",
+	"pools" : [
+		 ],
+	"super" : "SQLite3Platform",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+executing
+isInTransaction
+	^inTransaction.

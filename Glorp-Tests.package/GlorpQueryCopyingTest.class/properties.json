@@ -1,0 +1,18 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"query",
+		"expression",
+		"elementBuilder",
+		"session",
+		"newQuery" ],
+	"name" : "GlorpQueryCopyingTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpDatabaseBasedTest",
+	"type" : "normal" }

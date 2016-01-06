@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"helpTestPrintingWhereClause:" : "guest 10/21/2015 03:16",
+		"setUp" : "guest 10/21/2015 03:16",
+		"testAliasWithEmbeddedMapping" : "guest 10/21/2015 03:16",
+		"testBuildingObject" : "guest 10/21/2015 03:16",
+		"testElementBuilderFields" : "guest 10/21/2015 03:16",
+		"testExpressionTableAlias" : "guest 10/21/2015 03:16",
+		"testQueryPrintingFields" : "guest 10/21/2015 03:16",
+		"testQueryPrintingSimpleWhereClause" : "guest 10/21/2015 03:16",
+		"testQueryPrintingTables" : "EstebanMaringolo 11/23/2015 20:02" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Database-Types",
+	"classinstvars" : [
+		"count" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 1/13/2015 20:23",
+	"instvars" : [
+		"representationType" ],
+	"name" : "GlorpInMemorySequenceDatabaseType",
+	"pools" : [
+		 ],
+	"super" : "GlorpDatabaseType",
+	"type" : "normal" }

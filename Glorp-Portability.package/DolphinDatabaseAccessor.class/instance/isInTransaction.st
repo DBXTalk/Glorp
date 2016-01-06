@@ -1,0 +1,4 @@
+transactions
+isInTransaction
+
+	^connection isInTransaction

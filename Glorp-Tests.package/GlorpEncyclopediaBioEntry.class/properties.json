@@ -1,0 +1,16 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"title",
+		"text" ],
+	"name" : "GlorpEncyclopediaBioEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Glorp-Unit-Of-Work",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"undoMap",
+		"collectionMementos" ],
+	"name" : "ObjectTransaction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

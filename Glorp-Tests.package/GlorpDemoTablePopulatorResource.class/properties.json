@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NeedsSetup" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"login" ],
+	"name" : "GlorpDemoTablePopulatorResource",
+	"pools" : [
+		 ],
+	"super" : "TestResource",
+	"type" : "normal" }

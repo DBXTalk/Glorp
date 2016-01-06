@@ -1,0 +1,17 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sequence",
+		"table",
+		"row2",
+		"row1" ],
+	"name" : "GlorpDatabaseSequenceTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpSessionBasedTest",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlorpSurcharge",
+	"pools" : [
+		 ],
+	"super" : "GlorpTax",
+	"type" : "normal" }

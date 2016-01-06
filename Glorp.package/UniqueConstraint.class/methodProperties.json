@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"forTable:fields:" : "guest 10/21/2015 03:17" },
+	"instance" : {
+		"creationStringFor:" : "guest 10/13/2015 19:31",
+		"forTable:fields:" : "guest 10/13/2015 19:31",
+		"generateName" : "guest 10/13/2015 19:31",
+		"isUniqueConstraint" : "guest 10/13/2015 19:31",
+		"matchesUniqueConstraint:" : "guest 10/13/2015 19:31",
+		"printForConstraintNames:on:maxLength:" : "guest 10/13/2015 19:31" } }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asQueryWithNullsForOtherClasses:" : "TorstenBergmann 1/15/2015 09:08",
+		"asSimpleQueryFor:" : "guest 10/13/2015 19:31",
+		"executeSubQueries:withParameters:" : "TorstenBergmann 1/15/2015 09:08",
+		"executeSubQueriesCombined:withParameters:" : "TorstenBergmann 1/15/2015 09:08",
+		"executeSubQueriesIndividually:withParameters:" : "guest 10/13/2015 19:31",
+		"nullFieldFor:" : "TorstenBergmann 1/15/2015 09:08",
+		"readFromDatabaseWithParameters:" : "guest 10/13/2015 19:31",
+		"shouldUseSingleQuery" : "TorstenBergmann 1/15/2015 09:08" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"name",
+		"folders" ],
+	"name" : "GlorpUser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

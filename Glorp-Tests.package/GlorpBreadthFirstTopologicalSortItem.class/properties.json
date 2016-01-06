@@ -1,0 +1,17 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"id",
+		"relatedItems",
+		"status" ],
+	"name" : "GlorpBreadthFirstTopologicalSortItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

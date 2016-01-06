@@ -1,0 +1,16 @@
+{
+	"category" : "Glorp-Expressions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"arguments",
+		"whereClauseVersion",
+		"selectListVersion" ],
+	"name" : "DualRoleFunction",
+	"pools" : [
+		 ],
+	"super" : "FunctionExpression",
+	"type" : "normal" }

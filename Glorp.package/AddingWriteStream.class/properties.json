@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"target" ],
+	"name" : "AddingWriteStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Glorp-Mappings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"keyMapping",
+		"valueMapping",
+		"associationDescriptor" ],
+	"name" : "DictionaryMapping",
+	"pools" : [
+		 ],
+	"super" : "ToManyMapping",
+	"type" : "normal" }

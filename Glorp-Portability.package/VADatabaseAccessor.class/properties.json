@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Portability",
+	"classinstvars" : [
+		"databaseErrorSignal" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"isInTransaction" ],
+	"name" : "VADatabaseAccessor",
+	"pools" : [
+		 ],
+	"super" : "DatabaseAccessor",
+	"type" : "normal" }

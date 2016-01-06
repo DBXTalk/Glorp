@@ -1,0 +1,3 @@
+accessing
+vwEXDIConnectionClass
+	^'PostgreSQLEXDIConnection' asQualifiedReference valueIfUndefinedLoadFrom: 'PostgreSQLEXDI'

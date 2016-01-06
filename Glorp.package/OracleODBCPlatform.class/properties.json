@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Database-Platforms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		 ],
+	"name" : "OracleODBCPlatform",
+	"pools" : [
+		 ],
+	"super" : "OraclePlatform",
+	"type" : "normal" }

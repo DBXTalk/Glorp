@@ -1,0 +1,18 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"person",
+		"personId",
+		"emailId1",
+		"emailId2",
+		"emailId3" ],
+	"name" : "GlorpOneToManyDBTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpMappingDBTest",
+	"type" : "normal" }

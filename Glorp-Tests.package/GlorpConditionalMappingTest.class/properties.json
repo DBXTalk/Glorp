@@ -1,0 +1,19 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:16",
+	"instvars" : [
+		"mapping",
+		"descriptor",
+		"mapping1",
+		"mapping2",
+		"mapping3",
+		"newMapping" ],
+	"name" : "GlorpConditionalMappingTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpSessionBasedTest",
+	"type" : "normal" }

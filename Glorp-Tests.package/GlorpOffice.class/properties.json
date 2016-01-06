@@ -1,0 +1,17 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"employees",
+		"street",
+		"employeeOfMonth" ],
+	"name" : "GlorpOffice",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-DatabaseTypes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlorpTimeWithTimeZoneTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpTimeTest",
+	"type" : "normal" }

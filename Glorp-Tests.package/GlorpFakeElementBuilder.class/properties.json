@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "GlorpFakeElementBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

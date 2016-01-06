@@ -1,0 +1,22 @@
+{
+	"category" : "Glorp-Queries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"command",
+		"cursor",
+		"mightHaveDuplicateRows",
+		"builders",
+		"buildersThatReturnResults",
+		"databaseAccessor",
+		"peekBuffer",
+		"rawPeekBuffer",
+		"statement" ],
+	"name" : "GlorpCursoredStream",
+	"pools" : [
+		 ],
+	"super" : "Stream",
+	"type" : "normal" }

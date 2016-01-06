@@ -1,0 +1,25 @@
+{
+	"category" : "Glorp-Unit-Of-Work",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"session",
+		"transaction",
+		"deletedObjects",
+		"newObjects",
+		"rowMap",
+		"commitPlan",
+		"deletePlan",
+		"rowsByTable",
+		"succeeded",
+		"linkRowsForUpdate",
+		"commitPhase",
+		"deleting" ],
+	"name" : "UnitOfWork",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

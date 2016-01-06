@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Mappings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 1/13/2015 22:16",
+	"instvars" : [
+		 ],
+	"name" : "SQLite3PragmaMapping",
+	"pools" : [
+		 ],
+	"super" : "ToManyMapping",
+	"type" : "normal" }

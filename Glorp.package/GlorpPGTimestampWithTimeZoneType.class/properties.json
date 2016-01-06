@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Database-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlorpPGTimestampWithTimeZoneType",
+	"pools" : [
+		 ],
+	"super" : "GlorpDatabaseType",
+	"type" : "normal" }

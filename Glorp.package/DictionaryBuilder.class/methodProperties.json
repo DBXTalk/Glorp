@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildObjectFrom:" : "TorstenBergmann 1/15/2015 09:30",
+		"canCauseDuplicateRows" : "TorstenBergmann 1/15/2015 09:30",
+		"fieldsForSelectStatement" : "guest 10/13/2015 19:31",
+		"fieldsFromMyPerspective" : "guest 10/13/2015 19:31",
+		"findInstanceForRow:proxyType:" : "TorstenBergmann 1/15/2015 09:31",
+		"instanceValue" : "guest 10/13/2015 19:31",
+		"knitResultIn:" : "guest 10/13/2015 19:31",
+		"postCopy" : "guest 10/13/2015 19:31",
+		"reconcileWithBuilders:andCopy:" : "TorstenBergmann 1/15/2015 09:31",
+		"setup" : "TorstenBergmann 1/15/2015 09:31",
+		"subBuilders" : "TorstenBergmann 1/15/2015 09:31",
+		"withAllSubBuilders" : "TorstenBergmann 1/15/2015 09:31" } }

@@ -1,0 +1,3 @@
+executing
+rowCount
+	^connection rowsProcessed.

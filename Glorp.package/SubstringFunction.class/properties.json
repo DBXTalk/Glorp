@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Expressions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 1/13/2015 22:19",
+	"instvars" : [
+		 ],
+	"name" : "SubstringFunction",
+	"pools" : [
+		 ],
+	"super" : "PrefixFunction",
+	"type" : "normal" }

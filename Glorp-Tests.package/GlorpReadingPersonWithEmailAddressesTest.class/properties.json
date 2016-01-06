@@ -1,0 +1,21 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"session",
+		"personRow",
+		"addressRow",
+		"emailAddress1Row",
+		"emailAddress2Row",
+		"id1",
+		"id2",
+		"oldReuseState" ],
+	"name" : "GlorpReadingPersonWithEmailAddressesTest",
+	"pools" : [
+		 ],
+	"super" : "GlorpTestCase",
+	"type" : "normal" }

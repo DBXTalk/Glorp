@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 1/13/2015 20:18",
+	"instvars" : [
+		"connection" ],
+	"name" : "DatabaseDriver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

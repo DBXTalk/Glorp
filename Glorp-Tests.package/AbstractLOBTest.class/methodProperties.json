@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adjustForMaximumSize:" : "EstebanMaringolo 10/29/2015 20:21",
+		"convertToTypeFrom:" : "guest 10/21/2015 03:16",
+		"helpTestExplicitReadBackFor:" : "guest 10/21/2015 03:16",
+		"helpTestValue:compareModelWith:compareWith:" : "guest 10/21/2015 03:16",
+		"readBackModelWithValue:" : "guest 10/21/2015 03:16" } }

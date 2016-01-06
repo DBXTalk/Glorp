@@ -1,0 +1,4 @@
+*Glorp
+initialize
+
+	self resetFunctions.

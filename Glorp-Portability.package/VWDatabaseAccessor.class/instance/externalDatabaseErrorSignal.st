@@ -1,0 +1,4 @@
+executing
+externalDatabaseErrorSignal
+
+	^connection class externalDatabaseErrorSignal.

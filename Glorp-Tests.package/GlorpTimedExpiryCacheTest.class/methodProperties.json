@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"setUpExpiryWithRealDelay" : "guest 10/21/2015 03:16",
+		"setUpExpiryWithZeroDelay" : "guest 10/21/2015 03:16",
+		"setUpForExpiryActionOf:" : "guest 10/21/2015 03:16",
+		"setUpForNotify" : "guest 10/21/2015 03:16",
+		"setUpForNotifyAndRemove" : "guest 10/21/2015 03:16",
+		"setUpForRefresh" : "guest 10/21/2015 03:16",
+		"testExpiryReturningNilWithRealDelay" : "guest 10/21/2015 03:16",
+		"testNotExpiredAfterRefresh" : "guest 10/21/2015 03:16",
+		"testNotify" : "guest 10/21/2015 03:16",
+		"testNotifyAndRemove" : "guest 10/21/2015 03:16",
+		"testRegisteredObjectsDoNotExpire" : "guest 10/21/2015 03:16" } }

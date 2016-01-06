@@ -1,0 +1,19 @@
+{
+	"category" : "Glorp-Tests-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"title",
+		"dueDate",
+		"price",
+		"customer",
+		"store" ],
+	"name" : "GlorpVideoRental",
+	"pools" : [
+		 ],
+	"super" : "GlorpTestModelClass",
+	"type" : "normal" }

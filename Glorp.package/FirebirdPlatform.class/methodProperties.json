@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"areSequencesExplicitlyCreated" : "guest 10/13/2015 19:31",
+		"bindingsForGroupWritingFor:" : "guest 10/13/2015 19:31",
+		"blobDataToStreamConverter" : "guest 10/13/2015 19:31",
+		"clob" : "guest 10/13/2015 19:31",
+		"convertBlobData:for:" : "guest 10/13/2015 19:31",
+		"databaseSequenceClass" : "guest 10/13/2015 19:31",
+		"initializeFunctions" : "guest 10/13/2015 19:31",
+		"initializeReservedWords" : "guest 10/13/2015 19:31",
+		"isODBCPlatform" : "guest 10/13/2015 19:31",
+		"maximumLengthOfColumnName" : "guest 10/13/2015 19:31",
+		"maximumLengthOfTableName" : "guest 10/13/2015 19:31",
+		"measuresStringFieldWidthsInBytes" : "guest 10/13/2015 19:31",
+		"printSqlStatementToListTablesInSchema:on:" : "guest 10/13/2015 19:31",
+		"printSqlStatementToTestExistenceOfTable:inSchema:on:" : "guest 10/13/2015 19:31",
+		"requiresTransactionForTableOperations" : "guest 10/13/2015 19:31",
+		"reusePreparedStatements" : "guest 10/13/2015 19:31",
+		"sequence" : "guest 10/13/2015 19:31",
+		"supportsBinding" : "guest 10/13/2015 19:31",
+		"supportsMillisecondsInTimes" : "guest 10/13/2015 19:31",
+		"vwEXDIConnectionClass" : "guest 10/13/2015 19:31" } }

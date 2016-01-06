@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-DatabaseTypes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:16",
+	"instvars" : [
+		 ],
+	"name" : "GlorpDBTypeTestsPackage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"resources" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"rowFor:" : "guest 10/21/2015 03:16",
+		"setUp" : "guest 10/21/2015 03:16",
+		"testFunctionalInsertUpdateForInsert" : "guest 10/21/2015 03:16",
+		"testRowOwnership" : "guest 10/21/2015 03:16",
+		"testShouldInsertForInsert" : "guest 10/21/2015 03:16",
+		"testShouldInsertForUpdate" : "guest 10/21/2015 03:16" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Database-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		 ],
+	"name" : "DB2IdentityType",
+	"pools" : [
+		 ],
+	"super" : "GlorpSerialType",
+	"type" : "normal" }

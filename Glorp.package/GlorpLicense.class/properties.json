@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EstebanMaringolo 1/4/2016 17:12",
+	"instvars" : [
+		 ],
+	"name" : "GlorpLicense",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

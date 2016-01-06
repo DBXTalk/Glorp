@@ -1,0 +1,18 @@
+{
+	"category" : "Glorp-Queries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "guest 10/21/2015 03:17",
+	"instvars" : [
+		"queries",
+		"operation",
+		"primaryQuery",
+		"specialBuilders",
+		"requiresDistinct" ],
+	"name" : "CompoundQuery",
+	"pools" : [
+		 ],
+	"super" : "Query",
+	"type" : "normal" }

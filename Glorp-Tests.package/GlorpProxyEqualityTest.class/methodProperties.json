@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"resources" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"setUp2" : "guest 10/21/2015 03:16",
+		"testEquality" : "guest 10/21/2015 03:16",
+		"testEquality2" : "guest 10/21/2015 03:16",
+		"testEqualityFailing" : "guest 10/21/2015 03:16",
+		"testEqualityFailing2" : "guest 10/21/2015 03:16",
+		"testInequality" : "guest 10/21/2015 03:16",
+		"testInequality2" : "guest 10/21/2015 03:16",
+		"testInequalityFailing" : "guest 10/21/2015 03:16",
+		"testInequalityFailing2" : "guest 10/21/2015 03:16" } }

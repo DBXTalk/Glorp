@@ -1,0 +1,14 @@
+{
+	"category" : "Glorp-Tests-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GlorpNoProxyCollectionReadTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

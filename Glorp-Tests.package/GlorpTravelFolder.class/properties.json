@@ -1,0 +1,17 @@
+{
+	"category" : "Glorp-Tests-Database",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"name",
+		"files",
+		"unordered" ],
+	"name" : "GlorpTravelFolder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
