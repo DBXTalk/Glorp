@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 glorpSetupDescriptor: aDescriptor forSystem: aDescriptorSystem 
 	| table |
 	table := aDescriptorSystem tableNamed: 'GR_ADDRESS'.

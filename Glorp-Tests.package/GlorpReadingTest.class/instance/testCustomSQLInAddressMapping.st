@@ -6,7 +6,7 @@ testCustomSQLInAddressMapping
 	rowToWrite := session system exampleAddressRow.
 	session writeRow: rowToWrite.
 	query := Query read: GlorpAddress.
-	query sql: 'select id, street, house_num from gr_address where id = 123'.
+	query sql: 'select id, street, house_num from GR_ADDRESS where id = 123'.
 	results := query executeIn: session] 
 			ensure: [session rollbackTransaction].
 	self assert: results size = 1.

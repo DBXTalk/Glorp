@@ -1,4 +1,4 @@
-*GlorpTest
+examples
 currency: aSymbol amount: aNumber
 
 	^super new initialize

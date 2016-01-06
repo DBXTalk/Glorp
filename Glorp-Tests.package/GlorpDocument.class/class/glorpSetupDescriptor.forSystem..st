@@ -1,4 +1,4 @@
-*GlorpTest
+setup
 glorpSetupDescriptor: aDesc forSystem: system 
 	| t |
 	t := system tableNamed: 'document'.

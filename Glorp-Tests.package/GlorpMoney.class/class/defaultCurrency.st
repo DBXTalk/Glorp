@@ -1,4 +1,4 @@
-*GlorpTest
+instance creation
 defaultCurrency
 
 	^#CDN.

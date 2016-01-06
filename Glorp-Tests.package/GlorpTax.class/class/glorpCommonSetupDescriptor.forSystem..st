@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 glorpCommonSetupDescriptor: aDescriptor forSystem: aSystem
 	| table |
 	table := aSystem tableNamed: 'TAX'.

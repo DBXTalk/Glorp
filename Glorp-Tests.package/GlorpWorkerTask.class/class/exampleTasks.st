@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 exampleTasks
 	| tasks |
 	tasks := OrderedCollection new.

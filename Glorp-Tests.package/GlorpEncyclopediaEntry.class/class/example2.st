@@ -1,4 +1,4 @@
-*GlorpTest
+examples
 example2
 	^self new
 		id: 2;

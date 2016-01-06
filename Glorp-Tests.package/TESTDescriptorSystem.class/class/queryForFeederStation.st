@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 queryForFeederStation
 	| query |
 	query := Query read: FeederStation where: [:feederStation | feederStation id in: #(1 2 3 4)].

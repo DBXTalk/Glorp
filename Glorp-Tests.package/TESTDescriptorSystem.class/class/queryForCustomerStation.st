@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 queryForCustomerStation
 	| query |
 	query := Query read: CustomerStation

@@ -1,4 +1,4 @@
-as yet unclassified
+defaults
 defaultSQLServerLogin
 	"To set the default database login for Dolphin, execute the following statement."
 	"self defaultSQLServerLogin."

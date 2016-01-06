@@ -15,6 +15,7 @@ createBasicFunctionsFor: anObject
 		at: #, put: (InfixFunction named: '||');
 		at: #countStar put: (StandaloneFunction named: 'COUNT(*)');
 		at: #count put: (PrefixFunction named: 'COUNT');
+		at: #similarTo: put: (InfixFunction named: 'LIKE');
 		at: #between:and: put: (InfixFunction named: #('BETWEEN' 'AND'));
 		at: #isNil
 			put:

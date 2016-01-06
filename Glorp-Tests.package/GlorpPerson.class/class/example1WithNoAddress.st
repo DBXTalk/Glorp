@@ -1,4 +1,4 @@
-*GlorpTest
+examples
 example1WithNoAddress
 
 	^self new

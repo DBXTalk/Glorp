@@ -1,4 +1,4 @@
-*GlorpTest
+examples
 example2
 	"These examples have some shared values to assist in testing groupBy."
 

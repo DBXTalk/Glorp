@@ -1,4 +1,4 @@
-*GlorpTest
+examples
 exampleD2
 
 	^self new

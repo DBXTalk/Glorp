@@ -1,4 +1,4 @@
-*Glorp
+configuration
 databaseTableClass
 
 	^DatabaseTable

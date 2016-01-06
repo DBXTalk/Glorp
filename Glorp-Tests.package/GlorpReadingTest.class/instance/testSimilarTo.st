@@ -13,8 +13,6 @@ testSimilarTo
 	self assert: customers size = 1.
 	customers := session read: GlorpCustomer where: [:each | each name similarTo: 'a_ustomer'].
 	self assert: customers size = 1.
-	customers := session read: GlorpCustomer where: [:each | each name similarTo: 'aCusto(m|e|r)*'].
-	self assert: customers size = 1.
 	customers := session read: GlorpCustomer where: [:each | each name similarTo: 'Not a customer'].
 	self assert: customers isEmpty.
 	] 

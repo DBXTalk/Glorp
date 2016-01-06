@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"basicFunctions" : "guest 10/21/2015 03:17",
-		"createBasicFunctionsFor:" : "guest 10/21/2015 03:17",
+		"createBasicFunctionsFor:" : "EstebanMaringolo 1/6/2016 16:25",
 		"for:withArguments:basedOn:" : "TorstenBergmann 1/15/2015 17:46",
 		"for:withArguments:basedOn:system:" : "TorstenBergmann 1/15/2015 17:46",
 		"initialize" : "guest 10/21/2015 03:17",
@@ -23,7 +23,7 @@
 		"convertedDbValueOf:" : "guest 10/13/2015 19:31",
 		"converterForStType:" : "guest 10/13/2015 19:31",
 		"createFor:" : "guest 10/13/2015 19:31",
-		"createFor:withBase:symbol:" : "guest 10/13/2015 19:31",
+		"createFor:withBase:symbol:" : "EstebanMaringolo 1/6/2016 16:09",
 		"defaultType" : "guest 10/13/2015 19:31",
 		"do:skipping:" : "guest 10/13/2015 19:31",
 		"field" : "guest 10/13/2015 19:31",

@@ -1,4 +1,4 @@
-*Glorp
+validation
 validateDescriptorSystem: aSymbol
 	"Typical values are #always and #never"
 

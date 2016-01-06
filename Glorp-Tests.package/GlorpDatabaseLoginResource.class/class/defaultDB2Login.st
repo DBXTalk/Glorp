@@ -1,4 +1,4 @@
-as yet unclassified
+defaults
 defaultDB2Login
 	"To set the default database login to Oracle, execute the following statement."
 	"self defaultDB2Login."

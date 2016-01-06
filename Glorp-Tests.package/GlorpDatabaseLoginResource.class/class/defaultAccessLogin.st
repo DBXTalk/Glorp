@@ -1,4 +1,4 @@
-as yet unclassified
+defaults
 defaultAccessLogin
 	"To set the default database login for Access, execute the following statement."
 	"self defaultAccessLogin."

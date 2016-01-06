@@ -1,4 +1,4 @@
-*GlorpTest
+examples
 example1
 	| result |
 	result := GlorpEncyclopedia new.

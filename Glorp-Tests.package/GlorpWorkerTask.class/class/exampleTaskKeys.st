@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 exampleTaskKeys
 	| keys |
 	keys := OrderedCollection new.

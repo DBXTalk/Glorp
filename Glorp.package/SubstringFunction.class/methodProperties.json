@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"printBasicSQLOn:withParameters:forSelect:" : "GuillermoPolito 5/11/2015 11:54",
+		"_rewriteFunctionArguments" : "EstebanMaringolo 1/6/2016 16:20",
+		"printBasicSQLOn:withParameters:forSelect:" : "EstebanMaringolo 1/6/2016 16:23",
 		"rewriteForOracleBlobsWith:" : "guest 10/13/2015 19:31",
 		"rewriteForPostgresqlBase64BlobsWith:" : "guest 10/13/2015 19:31",
-		"rewriteFunctionArguments" : "guest 10/13/2015 19:31",
-		"rewriteFunctionArgumentsWith:" : "",
+		"rewriteFunctionArgumentsWith:" : "EstebanMaringolo 1/6/2016 16:26",
 		"type" : "" } }

@@ -1,3 +1,3 @@
-as yet unclassified
+defaults
 defaultPlatform
 	^self defaultLogin database.

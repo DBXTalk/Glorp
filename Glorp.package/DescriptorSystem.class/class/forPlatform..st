@@ -1,4 +1,4 @@
-*Glorp
+instance creation
 forPlatform: dbPlatform
 
 	^super new initialize;

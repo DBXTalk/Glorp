@@ -1,4 +1,4 @@
-*GlorpTest
+setup
 glorpSetupClassModel: model forSystem: system 
 	model
 		newAttributeNamed: #id;

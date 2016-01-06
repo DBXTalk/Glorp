@@ -1,4 +1,4 @@
-as yet unclassified
+defaults
 defaultFirebirdLogin
 	"To set the default database login to Firebird, execute the following statement."
 	"self defaultFirebirdLogin."

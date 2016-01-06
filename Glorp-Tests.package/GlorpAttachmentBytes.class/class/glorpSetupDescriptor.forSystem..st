@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 glorpSetupDescriptor: aDesc forSystem: system 
 	| t |
 	t := system tableNamed: 'attachmentbytes'.

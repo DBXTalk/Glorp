@@ -1,4 +1,4 @@
-*GlorpTest
+*Glorp-Tests
 example1
 	| example array |
 	example := self new.

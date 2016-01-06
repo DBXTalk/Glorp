@@ -1,4 +1,4 @@
-as yet unclassified
+defaults
 defaultOracleODBCLogin
 	"To set the default database login to Oracle, execute the following statement."
 	"self defaultOracleODBCLogin."

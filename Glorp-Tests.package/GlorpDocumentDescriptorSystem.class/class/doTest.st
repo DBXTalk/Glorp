@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 doTest
 	"   AADescriptor doTest    "
 

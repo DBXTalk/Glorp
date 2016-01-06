@@ -1,4 +1,4 @@
-as yet unclassified
+defaults
 defaultPostgreSQLLocalLogin
 	"To set the default database login to PostgreSQL protocol 2.0 via socket, execute the following statement.  The setting of a schema is not needed for GlorpTest tests but is needed for ActiveRecordTest tests."
 	"self defaultPostgreSQLLocalLogin."

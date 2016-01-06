@@ -1,5 +1,6 @@
 printing
 printBasicSQLOn: aStream withParameters: aDictionary forSelect: aBoolean
+
 	^self ultimateBaseExpression system platform isPostgreSQLPlatform
 		ifFalse: [ super printBasicSQLOn: aStream withParameters: aDictionary forSelect: aBoolean ]
 		ifTrue: [

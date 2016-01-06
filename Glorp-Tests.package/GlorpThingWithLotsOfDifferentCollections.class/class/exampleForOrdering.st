@@ -1,4 +1,4 @@
-*GlorpTest
+*Glorp-Tests
 exampleForOrdering
 	| example |
 	example := self new.

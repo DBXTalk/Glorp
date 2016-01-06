@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 readDocumentAndAttachmentsFrom: glorpSession 
 	| doc |
 	doc := glorpSession readOneOf: GlorpDocument.

@@ -1,4 +1,4 @@
-as yet unclassified
+defaults
 defaultMysqlLogin
 	"To set the default database login to MySQL, execute the following statement."
 	"self defaultMysqlLogin."

@@ -1,4 +1,4 @@
-*GlorpTest
+*Glorp-Tests
 new
 	"Answer a newly created and initialized instance."
 

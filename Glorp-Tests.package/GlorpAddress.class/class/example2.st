@@ -1,4 +1,4 @@
-*GlorpTest
+as yet unclassified
 example2
 
 	^self new
