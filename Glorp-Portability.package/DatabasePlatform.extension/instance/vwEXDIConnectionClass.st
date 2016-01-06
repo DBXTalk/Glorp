@@ -1,3 +1,3 @@
-accessing
+*Glorp-Portability
 vwEXDIConnectionClass
 	^self subclassResponsibility

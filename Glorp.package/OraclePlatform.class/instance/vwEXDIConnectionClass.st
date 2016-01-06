@@ -1,3 +1,0 @@
-accessing
-vwEXDIConnectionClass
-	^'OracleThreadedConnection' asQualifiedReference valueIfUndefinedLoadFrom: 'OracleThapiEXDI'
