@@ -11,6 +11,7 @@
 	"instance" : {
 		"areSequencesExplicitlyCreated" : "guest 10/13/2015 19:31",
 		"asTimestamp:for:" : "SvenVanCaekenberghe 1/22/2015 10:02",
+		"autoTrimsStringsLongerThanColumnSize" : "EstebanMaringolo 1/7/2016 17:20",
 		"batchWriteStatementTerminatorString" : "guest 10/13/2015 19:31",
 		"bindingsForGroupWritingFor:" : "guest 10/13/2015 19:31",
 		"blob" : "guest 10/13/2015 19:31",
@@ -89,7 +90,6 @@
 		"endColumnAddString" : "guest 10/13/2015 19:31",
 		"endColumnQuote" : "guest 10/13/2015 19:31",
 		"escapeFor:" : "guest 10/13/2015 19:31",
-		"exdiTypeForDates" : "guest 10/13/2015 19:31",
 		"functions" : "guest 10/13/2015 19:31",
 		"generatorFor:withBlock:" : "guest 10/13/2015 19:31",
 		"hasSubtransaction" : "guest 10/13/2015 19:31",
@@ -211,6 +211,7 @@
 		"supportsANSIJoins" : "guest 10/13/2015 19:31",
 		"supportsAliasInCompoundQuery" : "guest 10/13/2015 19:31",
 		"supportsAlterTableForConstraints" : "guest 10/13/2015 19:31",
+		"supportsArithmeticOperatorsOnDates" : "EstebanMaringolo 1/7/2016 17:57",
 		"supportsAuthentication" : "guest 10/13/2015 19:31",
 		"supportsBinding" : "guest 10/13/2015 19:31",
 		"supportsCaseInsensitiveLike" : "guest 10/13/2015 19:31",

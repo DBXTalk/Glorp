@@ -8,9 +8,10 @@ testChar2
 	self helpTestValue: 'a'.
 	self helpTestValue: 'ab'.
 
-	"These overlong-means-invalid checks fail on SQLite where column length limits are unenforced."
-	self should: [self helpTestInvalidValue: 'abc'] raise: GlorpDatabaseWriteError.
-	self should: [self helpTestInvalidValue: 'abcd'] raise: GlorpDatabaseWriteError.
-	self should: [self helpTestInvalidValue: 'abcde'] raise: GlorpDatabaseWriteError.
+	self platform autoTrimsStringsLongerThanColumnSize ifFalse: [ 
+		self should: [self helpTestInvalidValue: 'abc'] raise: GlorpDatabaseWriteError.
+		self should: [self helpTestInvalidValue: 'abcd'] raise: GlorpDatabaseWriteError.
+		self should: [self helpTestInvalidValue: 'abcde'] raise: GlorpDatabaseWriteError.
+	 ].
 	
 	self assert: (type typeString asUppercase = (self platform char: 2) typeString asUppercase)

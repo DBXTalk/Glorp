@@ -1,3 +1,3 @@
-exdi specific
+*Glorp-Portability
 exdiTypeForDates
 	^#Date.

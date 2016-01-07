@@ -12,5 +12,6 @@ testVarChar4
 	self helpTestValue: #abcd.
 	stType := nil.
 
-	"This overlong-means-invalid check fails on SQLite where column length limits are unenforced."
-	self should: [self helpTestInvalidValue: 'abcde'] raise: GlorpDatabaseWriteError.
+	self platform autoTrimsStringsLongerThanColumnSize ifFalse: [ 
+		self should: [self helpTestInvalidValue: 'abcde'] raise: GlorpDatabaseWriteError.
+	]

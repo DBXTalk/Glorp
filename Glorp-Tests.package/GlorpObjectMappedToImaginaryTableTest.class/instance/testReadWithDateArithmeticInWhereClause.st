@@ -7,6 +7,7 @@ testReadWithDateArithmeticInWhereClause
 	"Check date +/- integer expressions;  DB2 will not accept this unlabelled, so is tested separately."
 	session platform class == DB2Platform ifTrue:
 		[^self db2testReadWithDateArithmeticInWhereClause].
+	session platform supportsArithmeticOperatorsOnDates ifFalse: [ self skip ].
 	rentals := session read: GlorpVideoRental where:
 		[:each | each dueDate + 1 > Date today].
 	self deny: rentals isEmpty.

@@ -13,7 +13,7 @@
 		"testReadBackEntireExample" : "guest 10/21/2015 03:16",
 		"testReadCustomerWhere" : "guest 10/21/2015 03:16",
 		"testReadCustomerWhereWithJoin" : "guest 10/21/2015 03:16",
-		"testReadWithDateArithmeticInWhereClause" : "guest 10/21/2015 03:16",
+		"testReadWithDateArithmeticInWhereClause" : "EstebanMaringolo 1/7/2016 17:58",
 		"testRefreshItemWithMappedPrimaryKeys" : "guest 10/21/2015 03:16",
 		"testSelectByBoolean" : "guest 10/21/2015 03:16",
 		"testWrite" : "guest 10/21/2015 03:16" } }

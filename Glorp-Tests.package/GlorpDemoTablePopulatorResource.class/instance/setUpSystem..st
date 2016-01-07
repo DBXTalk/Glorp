@@ -7,7 +7,6 @@ setUpSystem: system
 		login accessor dropSequences: system allSequences.
 		system allSequences do: [:each |
 			login accessor createSequence: each ifError: errorBlock]].
-	self halt.
 	system allTables do: [:each | 
 			login accessor createTable: each
 				ifError: errorBlock].
