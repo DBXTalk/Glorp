@@ -22,5 +22,5 @@ testUnchangedInUnitOfWork
 	self assert: (session count: GlorpAttachment) = 1.
 	self assert: (session count: GlorpAttachmentBytes) = 1.
 	self assert: doc id notNil.
-	((session accessor executeSQLString: 'SELECT * FROM attachment') first do: [:each | self assert: each notNil]).
-	((session accessor executeSQLString: 'SELECT * FROM attachmentbytes') first do: [:each | self assert: each notNil])
+	((session accessor executeSQLString: 'SELECT * FROM attachment') first asArray do: [:each | self assert: each notNil]).
+	((session accessor executeSQLString: 'SELECT * FROM attachmentbytes') first asArray do: [:each | self assert: each notNil])

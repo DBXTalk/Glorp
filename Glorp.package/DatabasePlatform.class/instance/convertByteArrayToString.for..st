@@ -1,3 +1,4 @@
 conversion-strings
 convertByteArrayToString: aByteArray for: aType
-	^aByteArray asString.
+	
+	^aByteArray ifNotNil: [ aByteArray asString ]

@@ -1,3 +1,3 @@
 conversion-strings
 convertStringToByteArray: aString for: aType
-	^aString asByteArray.
+	^aString ifNotNil:  [aString asByteArray]
