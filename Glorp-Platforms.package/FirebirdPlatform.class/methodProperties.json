@@ -20,4 +20,5 @@
 		"reusePreparedStatements" : "guest 10/13/2015 19:31",
 		"sequence" : "guest 10/13/2015 19:31",
 		"supportsBinding" : "guest 10/13/2015 19:31",
-		"supportsMillisecondsInTimes" : "guest 10/13/2015 19:31" } }
+		"supportsMillisecondsInTimes" : "guest 10/13/2015 19:31",
+		"vwEXDIConnectionClass" : "guest 10/13/2015 19:31" } }
