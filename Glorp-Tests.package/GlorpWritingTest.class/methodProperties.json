@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "guest 10/21/2015 03:16",
-		"tearDown" : "guest 10/21/2015 03:16",
-		"testLargeWrite" : "guest 10/21/2015 03:16",
-		"testMultipleWritesAndReads" : "EstebanMaringolo 10/29/2015 11:44",
-		"testRegistrationFromWrittenObject" : "guest 10/21/2015 03:16" } }

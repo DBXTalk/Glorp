@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"readBlock:" : "guest 10/21/2015 03:17" },
-	"instance" : {
-		"class" : "guest 10/13/2015 19:31",
-		"getValue" : "guest 10/13/2015 19:31",
-		"glorpReadBlock:" : "guest 10/13/2015 19:31",
-		"printOn:" : "guest 10/13/2015 19:31",
-		"proxyInitialize" : "guest 10/13/2015 19:31" } }

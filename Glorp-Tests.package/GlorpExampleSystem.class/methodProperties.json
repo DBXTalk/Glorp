@@ -1,7 +1,0 @@
-{
-	"class" : {
-		"new" : "guest 10/21/2015 03:16" },
-	"instance" : {
-		"initialize" : "guest 10/21/2015 03:16",
-		"lookupObject:ofClass:ifAbsentPut:" : "guest 10/21/2015 03:16",
-		"objectNumber:ofClass:" : "guest 10/21/2015 03:16" } }

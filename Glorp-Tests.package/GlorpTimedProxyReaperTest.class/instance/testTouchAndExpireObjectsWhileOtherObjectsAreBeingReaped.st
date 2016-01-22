@@ -2,10 +2,6 @@ tests
 testTouchAndExpireObjectsWhileOtherObjectsAreBeingReaped
 
 	| expiringProxy proxy |
-	Dialect isVisualAge ifTrue: [Transcript cr; show: 'Avoiding ', self class name, '>>testTouchAndExpireObjectsWhileOtherObjectsAreBeingReaped for VisualAge'. ^self].
-	Dialect isObjectStudio ifTrue: [Transcript cr; show: 'Avoiding ', self class name, '>>testTouchAndExpireObjectsWhileOtherObjectsAreBeingReaped for ObjectStudio'. ^self].
-
-
 	reaper delay: 0.25.
 	expiringProxy := TimedProxy readOneOf: Object where: nil in: nil.
 	expiringProxy glorpSecondsToLive: 1.

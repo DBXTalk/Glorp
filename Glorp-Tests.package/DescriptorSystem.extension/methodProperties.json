@@ -1,7 +1,0 @@
-{
-	"class" : {
-		"createTables" : "guest 10/21/2015 03:16",
-		"dropTables" : "guest 10/21/2015 03:16",
-		"recreateTables" : "guest 10/21/2015 03:16" },
-	"instance" : {
-		 } }

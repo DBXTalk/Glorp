@@ -1,8 +1,0 @@
-{
-	"class" : {
-		"resources" : "guest 10/21/2015 03:16" },
-	"instance" : {
-		"createTestData:" : "guest 10/21/2015 03:16",
-		"setUp" : "guest 10/21/2015 03:16",
-		"testAnySatisfyNested" : "guest 10/21/2015 03:16",
-		"testAnySatisfyTwiceNested" : "guest 10/21/2015 03:16" } }

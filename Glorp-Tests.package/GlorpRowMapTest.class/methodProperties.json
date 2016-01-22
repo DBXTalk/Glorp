@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "guest 10/21/2015 03:16",
-		"testCollapseMatchingInsertsAndDeletes" : "guest 10/21/2015 03:16",
-		"testCollapseMatchingInsertsAndDeletesWithUnknownFields" : "guest 10/21/2015 03:16",
-		"testRowForTableSingle" : "guest 10/21/2015 03:16" } }

@@ -1,5 +1,5 @@
 {
-	"category" : "Glorp-Database-Platforms",
+	"category" : "Glorp-Platforms",
 	"classinstvars" : [
 		"converterRepository" ],
 	"classvars" : [

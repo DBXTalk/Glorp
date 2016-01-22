@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "guest 10/21/2015 03:16",
-		"testConstantInClass" : "guest 10/21/2015 03:16",
-		"testConstantInClassDoesNotWriteToRow" : "guest 10/21/2015 03:16",
-		"testGetValue" : "guest 10/21/2015 03:16",
-		"testSessionValue" : "guest 10/21/2015 03:16" } }

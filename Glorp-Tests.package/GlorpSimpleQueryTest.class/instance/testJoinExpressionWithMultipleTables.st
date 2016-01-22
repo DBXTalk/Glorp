@@ -9,8 +9,6 @@ testJoinExpressionWithMultipleTables
 	sql := command sqlString.
 	sqlStream := ReadStream on: sql asLowercase.
 	sqlStream skipToAll: self skipToString.
-	Dialect isVisualWorks
-		ifTrue: [ sqlStream skip: self skipToString size ].	"<Grumble grumble> stupid incompatibilities"
 	result := sqlStream upToEnd.
 	session platform supportsANSIJoins
 		ifTrue:

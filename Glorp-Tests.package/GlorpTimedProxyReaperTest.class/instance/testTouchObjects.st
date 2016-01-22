@@ -2,9 +2,6 @@ tests
 testTouchObjects
 
 	| proxy |
-	Dialect isVisualAge ifTrue: [Transcript cr; show: 'Avoiding ', self class name, '>>testTouchObjects for VisualAge'. ^self].
-	Dialect isObjectStudio ifTrue: [Transcript cr; show: 'Avoiding ', self class name, '>>testTouchObjects for ObjectStudio'. ^self].
-
 	reaper delay: 0.25.
 	proxy := TimedProxy readOneOf: Object where: nil in: nil.
 	proxy glorpSecondsToLive: 2.

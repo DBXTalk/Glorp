@@ -7,4 +7,4 @@ defaultPostgreSQLLogin
 		database: PostgreSQLPlatform new;
 		username: 'postgres';
 		password: 'secret';
-		connectString: 'localhost_test'.
+		connectString: '192.168.4.102_test'.

@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"basicExecuteSQLString:" : "guest 10/21/2015 03:16",
-		"executeCommand:returnCursor:" : "guest 10/21/2015 03:16",
-		"executeSQLString:" : "guest 10/21/2015 03:16",
-		"schema" : "guest 10/21/2015 03:16" } }

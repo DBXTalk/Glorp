@@ -1,11 +1,7 @@
 tests
 compareTime: read to: original
-	"GNU Smalltalk seems to be quite lone in following the ANSI standard..."
 	| zeroDuration max min |
-	Dialect isGNU
-		ifTrue: [
-			zeroDuration := (Smalltalk at: #Duration) zero.
-			^(read offset: zeroDuration) = (original offset: zeroDuration)].
+
 	"MS SQL Server fails randomly because it has a resolution of 3 ms only."
 	session platform class = SQLServerPlatform ifTrue: [
 		max := original addMilliseconds: 3.

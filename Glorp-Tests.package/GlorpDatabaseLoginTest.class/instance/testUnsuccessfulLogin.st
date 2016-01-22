@@ -13,7 +13,5 @@ testUnsuccessfulLogin
 
 	self assert: anotherAccessor isLoggedIn not.
 	anotherAccessor loginIfError: [:ex | ].
-	Dialect isVisualAge		"The isLoggedIn is unreliable under VA, can return false positive"
-		ifFalse: [self assert: anotherAccessor isLoggedIn not]
-		ifTrue: [Transcript cr; show: self class name, '>>testUnsuccessfulLogin skips a trivial isLoggedIn check, saying it was unreliable under VA55, could return false positive, later versions not yet verified'].
+	self assert: anotherAccessor isLoggedIn not.
 	anotherAccessor logout.

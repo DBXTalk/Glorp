@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"getSequenceValueFromDatabaseFor:in:using:" : "guest 10/13/2015 19:31",
-		"isIdentityColumn" : "guest 10/13/2015 19:31",
-		"postWriteAssignSequenceValueFor:in:using:" : "GuillermoPolito 4/26/2011 04:57",
-		"reserveSequenceNumbers:in:for:" : "guest 10/13/2015 19:31" } }

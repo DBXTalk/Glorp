@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"moneyNegatingMappingTo:in:" : "guest 10/21/2015 03:16",
-		"testNegateMappingRead" : "guest 10/21/2015 03:16",
-		"testNegateMappingWrite" : "guest 10/21/2015 03:16",
-		"testSplitMappingRead" : "guest 10/21/2015 03:16",
-		"testSplitMappingWrite" : "guest 10/21/2015 03:16" } }

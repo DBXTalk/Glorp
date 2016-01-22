@@ -3,11 +3,8 @@ testTimeStampCast
 	"SQLite does not have time-related types:  they are all mapped to strings.  I have not debugged why this test fails yet but assume it is completely unrealistic to expect a string to be cast to a timestamp."
 
 	| timestamp model |
-	Dialect isVisualAge ifTrue: [Transcript cr; show: 'Avoiding testTimestampCast for VisualAge'. ^self].
 	timestamp := Dialect timestampNow.
-	"Since VW moved to nanosend-granularity Timestamps, the
-		timestamp millisecond: 0
-	call we used to make here no longer suffices to round for all platforms.  In particular, OraclePlatform>>timestamp returns the 'DATE' type;  casting to Oracle DATE loses all data below seconds.  We therefore truncate the timestamp to seconds in what is (or can be made in Glorp*Port) a dialect-neutral way."
+	"OraclePlatform>>timestamp returns the 'DATE' type;  casting to Oracle DATE loses all data below seconds.  We therefore truncate the timestamp to seconds in what is (or can be made in Glorp*Port) a dialect-neutral way."
 	timestamp := timestamp class fromSeconds: timestamp asSeconds.
 	session transact: [session register: (GlorpTypeTestsModelClass new test: timestamp)].
 	model := session readOneOf: GlorpTypeTestsModelClass where: [:each | (each test cast: session platform timestamp) = timestamp].

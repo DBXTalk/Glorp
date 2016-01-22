@@ -3,7 +3,6 @@ testDateCast
 	"SQLite does not have time-related types:  they are all mapped to strings.  I have not debugged why this test fails yet but assume it is completely unrealistic to expect a string to be cast to a timestamp."
 
 	| date model |
-	Dialect isVisualAge ifTrue: [Transcript cr; show: 'Avoiding date test for VisualAge'. ^self].
 	date := Date today.
 	session transact: [session register: (GlorpTypeTestsModelClass new test: date)].
 	model := session readOneOf: GlorpTypeTestsModelClass where: [:each | (each test cast: session platform date) = date].

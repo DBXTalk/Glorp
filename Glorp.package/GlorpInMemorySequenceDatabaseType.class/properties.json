@@ -1,5 +1,5 @@
 {
-	"category" : "Glorp-Database-Types",
+	"category" : "Glorp-Types",
 	"classinstvars" : [
 		"count" ],
 	"classvars" : [

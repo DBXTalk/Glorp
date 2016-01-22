@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"allTablesFor:" : "TorstenBergmann 1/15/2015 17:28",
-		"classesRequiringIndependentQueriesFor:" : "guest 10/13/2015 19:31",
-		"describedConcreteClassFor:withBuilder:descriptor:" : "guest 10/13/2015 19:31",
-		"descriptorsRequiringIndependentQueriesFor:" : "TorstenBergmann 1/15/2015 17:28",
-		"typeMappingRootDescriptor" : "guest 10/13/2015 19:31" } }

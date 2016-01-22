@@ -2,7 +2,6 @@ tests
 testTrimString2
 	"Some special characters"
 	| type plat string |
-	Dialect isVisualAge ifTrue: [Transcript cr; show: self class name; show: '>>testTrimString2 skipped in VA'. ^self].
 
 	type := self string20.
 	plat := type platform.

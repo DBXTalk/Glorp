@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"hostedBy:fromStToDb:fromDbToSt:" : "guest 10/21/2015 03:17",
-		"named:hostedBy:fromStToDb:fromDbToSt:" : "guest 10/21/2015 03:17" },
-	"instance" : {
-		"convert:fromDatabaseRepresentationAs:" : "guest 10/13/2015 19:31",
-		"convert:toDatabaseRepresentationAs:" : "guest 10/13/2015 19:31",
-		"hostedBy:fromStToDb:fromDbToSt:" : "guest 10/13/2015 19:31",
-		"named:hostedBy:fromStToDb:fromDbToSt:" : "guest 10/13/2015 19:31" } }
