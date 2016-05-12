@@ -1,18 +1,16 @@
 private
 readBackModelWithValue: anObject
 	"For SQL-Server, use CONVERT (which is easier than CAST for now), with = instead of LIKE."
-	
-	^self platform isSQLServerPlatform
-		ifTrue:
-			[| converted |
-			converted := self convertToTypeFrom: anObject.
+
+	^ self useEqualityToCompare
+		ifTrue: [ | converted |
+			converted := self platform isSQLServerPlatform ifTrue: [ self convertToTypeFrom: anObject ] ifFalse: [ anObject ].
 			session
 				readOneOf: GlorpTypeTestsModelClass
-				where: [:each | each test = converted]]
-		ifFalse:
-			[session
+				where: [ :each | each test = converted ] ]
+		ifFalse: [ session
 				readOneOf: GlorpTypeTestsModelClass
-				where: [:each | each test like: anObject]]
+				where: [ :each | each test like: anObject ] ]
 
 	"^session
 		readOneOf: GlorpTypeTestsModelClass

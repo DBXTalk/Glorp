@@ -1,4 +1,4 @@
 running
 setUp
-	platform := PostgresSocketPlatform new.
+	platform := PostgreSQLPlatform new.
 	system := DynamicDescriptorSystem forPlatform: platform

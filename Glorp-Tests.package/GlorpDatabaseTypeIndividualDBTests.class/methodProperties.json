@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"resources" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"compareFloatInModel:with:" : "guest 10/21/2015 03:16",
+		"createTypeTestTable" : "guest 10/21/2015 03:16",
+		"defaultDatabaseType" : "guest 10/21/2015 03:16",
+		"helpTestExplicitReadBackFor:" : "guest 10/21/2015 03:16",
+		"helpTestFloat:" : "guest 10/21/2015 03:16",
+		"helpTestInvalidValue:" : "guest 10/21/2015 03:16",
+		"helpTestValue:" : "guest 10/21/2015 03:16",
+		"helpTestValue:compareModelWith:compareWith:" : "guest 10/21/2015 03:16",
+		"helpTestValue:compareWith:" : "guest 10/21/2015 03:16",
+		"helpTestValueWithSQLWrite:compareModelWith:compareWith:" : "EstebanMaringolo 5/4/2016 23:21",
+		"helpTestValueWithUnitOfWorkWrite:compareModelWith:" : "guest 10/21/2015 03:16",
+		"inTransactionDo:" : "guest 10/21/2015 03:16",
+		"initialize" : "guest 10/21/2015 03:16",
+		"platform" : "guest 10/21/2015 03:16",
+		"readBackModelWithValue:" : "guest 10/21/2015 03:16",
+		"setUp" : "guest 10/21/2015 03:16",
+		"systemFor:" : "guest 10/21/2015 03:16",
+		"tableName" : "guest 10/21/2015 03:16",
+		"tearDown" : "guest 10/21/2015 03:16" } }

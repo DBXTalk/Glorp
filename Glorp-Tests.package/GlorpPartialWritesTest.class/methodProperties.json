@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"testNoDifferenceNoWrite" : "guest 10/21/2015 03:16",
+		"testWritingNewObject" : "guest 10/21/2015 03:16",
+		"testWritingObjectWithAddedComponent" : "guest 10/21/2015 03:16",
+		"testWritingObjectWithChangedAttribute" : "guest 10/21/2015 03:16",
+		"testWritingObjectWithChangedComponent" : "guest 10/21/2015 03:16",
+		"testWritingObjectWithChangedComponentAttribute" : "guest 10/21/2015 03:16",
+		"testWritingObjectWithDeletedComponent" : "guest 10/21/2015 03:16",
+		"testWritingObjectWithDeletedRelationship" : "guest 10/21/2015 03:16" } }

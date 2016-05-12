@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"example1" : "guest 10/21/2015 03:16",
+		"example1WithChangedAddress" : "guest 10/21/2015 03:16",
+		"example1WithDifferentAddress" : "guest 10/21/2015 03:16",
+		"example1WithDifferentName" : "guest 10/21/2015 03:16",
+		"example1WithNoAddress" : "guest 10/21/2015 03:16",
+		"example2" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"address" : "guest 10/21/2015 03:16",
+		"address:" : "guest 10/21/2015 03:16",
+		"emailAddresses" : "guest 10/21/2015 03:16",
+		"emailAddresses:" : "guest 10/21/2015 03:16",
+		"hasEmail" : "guest 10/21/2015 03:16",
+		"hasEmail:" : "guest 10/21/2015 03:16",
+		"id" : "guest 10/21/2015 03:16",
+		"id:" : "guest 10/21/2015 03:16",
+		"name" : "guest 10/21/2015 03:16",
+		"name:" : "guest 10/21/2015 03:16",
+		"printOn:" : "guest 10/21/2015 03:16" } }

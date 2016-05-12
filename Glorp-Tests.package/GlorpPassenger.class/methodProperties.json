@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"example1" : "guest 10/21/2015 03:16",
+		"example2" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"airline" : "guest 10/21/2015 03:16",
+		"airline:" : "guest 10/21/2015 03:16",
+		"frequentFlyerPoints" : "guest 10/21/2015 03:16",
+		"frequentFlyerPoints:" : "guest 10/21/2015 03:16",
+		"id" : "guest 10/21/2015 03:16",
+		"id:" : "guest 10/21/2015 03:16",
+		"name" : "guest 10/21/2015 03:16",
+		"name:" : "guest 10/21/2015 03:16" } }

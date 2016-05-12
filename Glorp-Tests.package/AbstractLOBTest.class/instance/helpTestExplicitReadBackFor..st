@@ -4,7 +4,7 @@ helpTestExplicitReadBackFor: dbOutValue
 	| queryStream result compareClause|
 	queryStream := SQLStringSelectCommand sqlString: nil parameters: #() useBinding: session useBinding session: session.
 	queryStream nextPutAll: 'SELECT test,id FROM ', self tableName, ' WHERE test'.
-	compareClause := self platform isSQLServerPlatform ifTrue: [' = '] ifFalse: [' LIKE '].
+	compareClause := ' = '. "self platform isSQLServerPlatform ifTrue: [' = '] ifFalse: [' LIKE ']."
 	queryStream nextPutAll: (dbOutValue isNil ifTrue: [' IS '] ifFalse: [compareClause]).
 	(dbOutValue notNil and: [type requiresCast]) ifTrue: [queryStream nextPutAll: ' CAST ('].
 	(self platform isSQLServerPlatform and: [dbOutValue notNil and: [type requiresConvertToVarbinary]])

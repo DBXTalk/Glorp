@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"testArray" : "guest 10/21/2015 03:16",
+		"testBecome" : "guest 10/21/2015 03:16",
+		"testCommit" : "guest 10/21/2015 03:16",
+		"testHashedCollection" : "guest 10/21/2015 03:16",
+		"testRegisteredObjectsDoRecursively" : "guest 10/21/2015 03:16",
+		"testString" : "guest 10/21/2015 03:16" } }

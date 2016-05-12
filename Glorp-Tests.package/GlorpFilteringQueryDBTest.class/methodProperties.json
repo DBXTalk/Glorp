@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"tearDown" : "guest 10/21/2015 03:16",
+		"testReadDictionary" : "guest 10/21/2015 03:16",
+		"testReadOneToMany" : "guest 10/21/2015 03:16",
+		"testReadOneToMany2" : "guest 10/21/2015 03:16",
+		"testReadOneToManyEmptyCriteria" : "guest 10/21/2015 03:16",
+		"testReadOneToManyNoProxy" : "guest 10/21/2015 03:16",
+		"testReadOneToOne" : "guest 10/21/2015 03:16",
+		"testTwoLevelRead" : "guest 10/21/2015 03:16" } }

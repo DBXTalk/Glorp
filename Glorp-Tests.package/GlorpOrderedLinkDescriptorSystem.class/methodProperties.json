@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allTableNames" : "EstebanMaringolo 1/7/2016 16:15",
+		"classModelForGlorpTravelFile:" : "guest 10/21/2015 03:16",
+		"classModelForGlorpTravelFolder:" : "guest 10/21/2015 03:16",
+		"constructAllClasses" : "guest 10/21/2015 03:16",
+		"descriptorForGlorpTravelFile:" : "guest 10/21/2015 03:16",
+		"descriptorForGlorpTravelFolder:" : "guest 10/21/2015 03:16",
+		"giveOrderedLinkTableNoPrimaryKeyFields" : "guest 10/21/2015 03:16",
+		"tableForFILES:" : "guest 10/21/2015 03:16",
+		"tableForFOLDERS:" : "guest 10/21/2015 03:16",
+		"tableForFOLDER_FILES_LINK:" : "guest 10/21/2015 03:16",
+		"tableForUNORDERED_LINK:" : "guest 10/21/2015 03:16" } }

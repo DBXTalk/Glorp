@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testGlorpIsCollection" : "guest 10/21/2015 03:16",
+		"testLikePercent" : "guest 10/21/2015 03:16",
+		"testLikePercentButNotStar" : "guest 10/21/2015 03:16",
+		"testLikeUnderscore" : "guest 10/21/2015 03:16",
+		"testLikeUnderscoreButNotHash" : "guest 10/21/2015 03:16" } }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"resources" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"setUpQueryBasic:" : "guest 10/21/2015 03:16",
+		"setUpQueryFields:" : "guest 10/21/2015 03:16",
+		"setUpQueryFully:" : "guest 10/21/2015 03:16",
+		"skipToString" : "guest 10/21/2015 03:16",
+		"tearDown" : "guest 10/21/2015 03:16",
+		"testCaseInsensitiveQuery" : "guest 10/21/2015 03:16",
+		"testComputingFieldsForDirectMappings" : "guest 10/21/2015 03:16",
+		"testComputingFieldsForDirectMappingsWithFullPrepare" : "guest 10/21/2015 03:16",
+		"testComputingFieldsForReferenceMappings" : "guest 10/21/2015 03:16",
+		"testComputingFieldsForReferenceMappingsWithFullPrepare" : "guest 10/21/2015 03:16",
+		"testDescriptorAssignmentToCriteria" : "guest 10/21/2015 03:16",
+		"testDoubleOrderSQL" : "guest 10/21/2015 03:16",
+		"testFieldAliasingForEmbeddedMappings" : "guest 10/21/2015 03:16",
+		"testJoinExpressionWithMultipleTables" : "EstebanMaringolo 1/15/2016 21:30",
+		"testOrderSQL" : "guest 10/21/2015 03:16" } }

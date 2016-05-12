@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allTableNames" : "guest 10/21/2015 03:16",
+		"classModelForASBonus:" : "guest 10/21/2015 03:16",
+		"classModelForASCustomer:" : "guest 10/21/2015 03:16",
+		"classModelForASItem:" : "guest 10/21/2015 03:16",
+		"classModelForASItemBonus:" : "guest 10/21/2015 03:16",
+		"classModelForASOrder:" : "guest 10/21/2015 03:16",
+		"classModelForASOrderLineItem:" : "guest 10/21/2015 03:16",
+		"descriptorForASBonus:" : "guest 10/21/2015 03:16",
+		"descriptorForASCustomer:" : "guest 10/21/2015 03:16",
+		"descriptorForASItem:" : "guest 10/21/2015 03:16",
+		"descriptorForASItemBonus:" : "guest 10/21/2015 03:16",
+		"descriptorForASOrder:" : "guest 10/21/2015 03:16",
+		"descriptorForASOrderLineItem:" : "guest 10/21/2015 03:16",
+		"tableForASBONUS:" : "guest 10/21/2015 03:16",
+		"tableForASCUSTOMER:" : "guest 10/21/2015 03:16",
+		"tableForASITEM:" : "guest 10/21/2015 03:16",
+		"tableForASITEMBONUS:" : "guest 10/21/2015 03:16",
+		"tableForASORDER:" : "guest 10/21/2015 03:16",
+		"tableForASORDERLINEITEM:" : "guest 10/21/2015 03:16" } }

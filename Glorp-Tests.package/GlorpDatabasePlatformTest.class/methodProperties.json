@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addToString:" : "guest 10/21/2015 03:16",
+		"helpTestPrintTimestamp:" : "EstebanMaringolo 10/28/2015 01:12",
+		"string20" : "EstebanMaringolo 1/15/2016 21:21",
+		"testNumericCoercion" : "guest 10/21/2015 03:16",
+		"testPrintTimestamp" : "guest 10/21/2015 03:16",
+		"testReadTimestamp" : "EstebanMaringolo 10/28/2015 02:08",
+		"testReadTimestampNoMS" : "guest 10/21/2015 03:16",
+		"testReadTimestampNoMSNoTZ" : "guest 10/21/2015 03:16",
+		"testReadTimestampNoTZ" : "guest 10/21/2015 03:16",
+		"testReadTimestampOverflowDays" : "guest 10/21/2015 03:16",
+		"testTrimString1" : "guest 10/21/2015 03:16",
+		"testTrimString2" : "EstebanMaringolo 1/15/2016 21:21" } }

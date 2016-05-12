@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "EstebanMaringolo 2/17/2016 16:20",
+		"someCode" : "guest 10/21/2015 03:16",
+		"testAllAttributes" : "guest 10/21/2015 03:16",
+		"testAllAttributesSkipDefined" : "guest 10/21/2015 03:16",
+		"testDirectMapping" : "guest 10/21/2015 03:16",
+		"testDirectMappingNameFieldNameComputation" : "guest 10/21/2015 03:16",
+		"testOneToOneRelation" : "guest 10/21/2015 03:16",
+		"testToManyRelation" : "guest 10/21/2015 03:16" } }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"defaultLogin" : "EstebanMaringolo 10/27/2015 15:22",
+		"defaultLogin:" : "guest 10/21/2015 03:16",
+		"defaultMysqlLogin" : "EstebanMaringolo 1/5/2016 16:42",
+		"defaultOracleLiteLogin" : "guest 10/21/2015 03:16",
+		"defaultOracleLogin" : "guest 10/21/2015 03:16",
+		"defaultOracleODBCLogin" : "guest 10/21/2015 03:16",
+		"defaultPlatform" : "guest 10/21/2015 03:16",
+		"defaultPostgreSQLLogin" : "EstebanMaringolo 1/15/2016 19:05",
+		"defaultSQLServerLogin" : "guest 10/21/2015 03:16",
+		"defaultSQLiteLocalLogin" : "EstebanMaringolo 5/6/2016 00:33" },
+	"instance" : {
+		"accessor" : "guest 10/21/2015 03:16",
+		"accessor:" : "guest 10/21/2015 03:16",
+		"login" : "guest 10/21/2015 03:16",
+		"login:" : "guest 10/21/2015 03:16",
+		"platform" : "guest 10/21/2015 03:16",
+		"setUp" : "guest 10/21/2015 03:16",
+		"tearDown" : "guest 10/21/2015 03:16" } }

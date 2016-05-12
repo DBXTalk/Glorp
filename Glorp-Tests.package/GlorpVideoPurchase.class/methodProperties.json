@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"new" : "guest 10/21/2015 03:16" },
+	"instance" : {
+		"<=" : "guest 10/21/2015 03:16",
+		"assertEqual:" : "guest 10/21/2015 03:16",
+		"customer" : "guest 10/21/2015 03:16",
+		"customer:" : "guest 10/21/2015 03:16",
+		"id" : "guest 10/21/2015 03:16",
+		"id:" : "guest 10/21/2015 03:16",
+		"inStore" : "guest 10/21/2015 03:16",
+		"inStore:" : "guest 10/21/2015 03:16",
+		"initialize" : "guest 10/21/2015 03:16",
+		"price" : "guest 10/21/2015 03:16",
+		"price:" : "guest 10/21/2015 03:16",
+		"printOn:" : "guest 10/21/2015 03:16",
+		"store:" : "guest 10/21/2015 03:16",
+		"title" : "guest 10/21/2015 03:16",
+		"title:" : "guest 10/21/2015 03:16",
+		"videoStore" : "guest 10/21/2015 03:16" } }

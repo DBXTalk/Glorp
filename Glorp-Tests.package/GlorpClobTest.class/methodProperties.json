@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultDatabaseType" : "guest 10/21/2015 03:16",
+		"longString" : "guest 10/21/2015 03:16",
+		"string255" : "guest 10/21/2015 03:16",
+		"testClob" : "guest 10/21/2015 03:16",
+		"testLargeClob" : "guest 10/21/2015 03:16" } }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "guest 10/21/2015 03:16",
+		"system" : "guest 10/21/2015 03:16",
+		"tableNamed:" : "guest 10/21/2015 03:16",
+		"tearDown" : "guest 10/21/2015 03:16",
+		"testCommit" : "guest 10/21/2015 03:16",
+		"testDeleteRegistration" : "guest 10/21/2015 03:16",
+		"testDeletesComeAfterUpdates" : "guest 10/21/2015 03:16",
+		"testDeletesInReverseOrder" : "guest 10/21/2015 03:16",
+		"testGeneratingDeleteRows" : "guest 10/21/2015 03:16" } }

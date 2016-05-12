@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"helpTestBasicAliasing:" : "guest 10/21/2015 03:16",
+		"testBase" : "guest 10/21/2015 03:16",
+		"testMapping" : "guest 10/21/2015 03:16",
+		"testTable" : "guest 10/21/2015 03:16",
+		"testTableSameAsBase" : "guest 10/21/2015 03:16" } }

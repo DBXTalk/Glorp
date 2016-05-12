@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adjustForMaximumSize:" : "guest 10/21/2015 03:16",
+		"blob255" : "guest 10/21/2015 03:16",
+		"defaultDatabaseType" : "guest 10/21/2015 03:16",
+		"largeBlob" : "guest 10/21/2015 03:16",
+		"mediumlargeBlob" : "guest 10/21/2015 03:16",
+		"testBlob" : "guest 10/21/2015 03:16",
+		"testBlobWithSubstring" : "guest 10/21/2015 03:16",
+		"testDefaultBlobPrinting" : "guest 10/21/2015 03:16",
+		"testLargeBlob" : "EstebanMaringolo 5/5/2016 00:47" } }

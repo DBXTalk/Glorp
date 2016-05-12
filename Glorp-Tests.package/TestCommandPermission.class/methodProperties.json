@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAlsoDeny" : "guest 10/21/2015 03:16",
+		"testDenyReads" : "guest 10/21/2015 03:16",
+		"testForbiddenDelete" : "guest 10/21/2015 03:16",
+		"testForbiddenDeleteAllowsUpdateAndInsert" : "guest 10/21/2015 03:16",
+		"testInsertOnlyAllowsInsert" : "guest 10/21/2015 03:16",
+		"testInsertOnlyForbidsDelete" : "guest 10/21/2015 03:16",
+		"testInsertOnlyForbidsUpdate" : "guest 10/21/2015 03:16",
+		"testPermitEverything" : "guest 10/21/2015 03:16",
+		"testPermitNothing" : "guest 10/21/2015 03:16",
+		"testReadOnlyForbidsDelete" : "guest 10/21/2015 03:16",
+		"testReadOnlyForbidsInsert" : "guest 10/21/2015 03:16",
+		"testReadOnlyForbidsUpdate" : "guest 10/21/2015 03:16",
+		"writeTestRows" : "guest 10/21/2015 03:16" } }

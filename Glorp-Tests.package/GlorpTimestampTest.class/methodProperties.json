@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compareTime:to:" : "EstebanMaringolo 1/15/2016 19:17",
+		"defaultDatabaseType" : "guest 10/21/2015 03:16",
+		"testTimeStamp" : "guest 10/21/2015 03:16",
+		"testTimeStampBetweenAnd" : "EstebanMaringolo 10/28/2015 00:28",
+		"testTimeStampCast" : "EstebanMaringolo 1/15/2016 19:22",
+		"testTimeStampCompare" : "EstebanMaringolo 10/28/2015 00:28" } }
