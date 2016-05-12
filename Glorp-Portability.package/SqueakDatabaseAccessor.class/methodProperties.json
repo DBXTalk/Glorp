@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicExecuteSQLString:" : "guest 10/13/2015 19:31",
+		"basicExecuteSQLStringNoResult:doing:" : "guest 10/13/2015 19:31",
+		"beginTransaction" : "guest 10/13/2015 19:31",
+		"commitTransaction" : "guest 10/13/2015 19:31",
+		"connectionArgsFromCurrentLogin" : "guest 10/13/2015 19:31",
+		"connectionClassForLogin:" : "guest 10/13/2015 19:31",
+		"disconnect" : "guest 10/13/2015 19:31",
+		"executeCommandUnbound:" : "guest 10/13/2015 19:31",
+		"externalDatabaseErrorSignal" : "guest 10/13/2015 19:31",
+		"initialize" : "guest 10/13/2015 19:31",
+		"innerExceptionFor:" : "guest 10/13/2015 19:31",
+		"isInTransaction" : "guest 10/13/2015 19:31",
+		"isLoggedIn" : "guest 10/13/2015 19:31",
+		"loginIfError:" : "guest 10/13/2015 19:31",
+		"logout" : "guest 10/13/2015 19:31",
+		"releaseCursor:in:" : "guest 10/13/2015 19:31",
+		"rollbackTransaction" : "guest 10/13/2015 19:31",
+		"rowCount" : "guest 10/13/2015 19:31",
+		"showDialog:" : "guest 10/13/2015 19:31" } }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicExecuteSQLString:" : "guest 10/13/2015 19:31",
+		"beginTransaction" : "guest 10/13/2015 19:31",
+		"commitTransaction" : "guest 10/13/2015 19:31",
+		"externalDatabaseErrorSignal" : "guest 10/13/2015 19:31",
+		"isInTransaction" : "guest 10/13/2015 19:31",
+		"isLoggedIn" : "guest 10/13/2015 19:31",
+		"loginIfError:" : "guest 10/13/2015 19:31",
+		"logout" : "guest 10/13/2015 19:31",
+		"rollbackTransaction" : "guest 10/13/2015 19:31",
+		"showDialog:" : "guest 10/13/2015 19:31" } }
