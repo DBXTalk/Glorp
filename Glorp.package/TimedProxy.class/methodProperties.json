@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"class" : "TorstenBergmann 1/15/2015 09:24",
+		"doesNotUnderstand:" : "guest 10/13/2015 19:31",
+		"glorpAssociation" : "guest 10/13/2015 19:31",
+		"glorpAssociation:" : "guest 10/13/2015 19:31",
+		"glorpId" : "guest 10/13/2015 19:31",
+		"glorpId:" : "guest 10/13/2015 19:31",
+		"glorpReaper:" : "guest 10/13/2015 19:31",
+		"glorpSecondsToLive" : "guest 10/13/2015 19:31",
+		"glorpSecondsToLive:" : "guest 10/13/2015 19:31",
+		"glorpTimeToDie" : "guest 10/13/2015 19:31",
+		"glorpTouch" : "guest 10/13/2015 19:31",
+		"proxyInitialize" : "guest 10/13/2015 19:31",
+		"uninstantiate" : "guest 10/13/2015 19:31",
+		"updateExpiryTime" : "TorstenBergmann 1/15/2015 09:25" } }

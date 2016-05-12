@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addTypeMappingCriteriaTo:in:" : "guest 10/13/2015 19:31",
+		"allDescribedConcreteClasses" : "guest 10/13/2015 19:31",
+		"canBeTypeMappingParent" : "guest 10/13/2015 19:31",
+		"describedClass" : "guest 10/13/2015 19:31",
+		"describedConcreteClassFor:withBuilder:" : "guest 10/13/2015 19:31",
+		"descriptorForSuperclass" : "guest 10/13/2015 19:31",
+		"hasAttribute" : "TorstenBergmann 1/15/2015 17:24",
+		"isAbstract" : "guest 10/13/2015 19:31",
+		"isRelationship" : "guest 10/13/2015 19:31",
+		"isTypeMapping" : "guest 10/13/2015 19:31",
+		"isTypeMappingRoot" : "guest 10/13/2015 19:31",
+		"mapFromObject:intoRowsIn:" : "guest 10/13/2015 19:31",
+		"mapObject:inElementBuilder:" : "guest 10/13/2015 19:31",
+		"mappedClass" : "guest 10/13/2015 19:31",
+		"referencedIndependentObjectsFrom:" : "guest 10/13/2015 19:31",
+		"typeMappingRoot" : "guest 10/13/2015 19:31",
+		"validateAttribute" : "guest 10/13/2015 19:31" } }

@@ -8,9 +8,7 @@ newTimestampWithYears: years
 	milliseconds: millis
 	offset: offset
 
-	| date time ts |
-	self isPharo ifTrue: [ 
-		^self timestampClass 
+	^self timestampClass 
 			year: years
 			month: months
 			day: days
@@ -18,28 +16,4 @@ newTimestampWithYears: years
 			minute: minutes
 			second: seconds
 			nanoSecond: millis * 1000000
-			offset: (Duration seconds: offset)].
-
-	self isGNU
-		ifTrue: [
-			^ self timestampClass year: years
-				month: months
-				day: days
-				hour: hours
-				minute: minutes
-				second: seconds
-				offset: ((Dialect smalltalkAt: #Duration) fromSeconds: offset)
-		].
-	date := self newDateWithYears: years months: months days: days.
-	time := self newTimeWithHours: hours minutes: minutes seconds: seconds milliseconds: millis.
-	self isVisualWorks
-		ifTrue: [^ (self timestampClass fromDate: date andTime: time) addMilliseconds: millis].
-	self isSqueak
-		ifTrue: [ts := self timestampClass date: date time: time.
-			ts asTime addSeconds: (millis / 1000) asInteger.
-				^ts]. 
-	self isVisualAge
-		ifTrue: [^(Dialect smalltalkAt: #AbtTimestamp) date: date time: time].
-	self isObjectStudio ifTrue: [^self timestampClass newDate: date time: time].
-	self error: 'not implemented'.
-	^ self
+			offset: (Duration seconds: offset)

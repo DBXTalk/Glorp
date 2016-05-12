@@ -1,4 +1,4 @@
-*Glorp
+setup
 createBasicFunctionsFor: anObject
 	| exists notExists defaultFunctions |
 	defaultFunctions := IdentityDictionary new.

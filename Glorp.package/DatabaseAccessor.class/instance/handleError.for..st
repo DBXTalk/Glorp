@@ -12,6 +12,6 @@ handleError: exception for: command
 		ifTrue:
 			[self reset.
 			self logout.
-			self reLogin.
+			self login.
 			exception restart]
 		ifFalse: [error return: nil].

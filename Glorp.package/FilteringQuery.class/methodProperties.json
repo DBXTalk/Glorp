@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"on:filter:" : "TorstenBergmann 1/15/2015 17:44" },
+	"instance" : {
+		"collectBlock" : "guest 10/13/2015 19:31",
+		"collectBlock:" : "TorstenBergmann 1/15/2015 09:21",
+		"collection" : "guest 10/13/2015 19:31",
+		"collection:" : "TorstenBergmann 1/15/2015 09:21",
+		"collectionTypesAgree:" : "guest 10/13/2015 19:31",
+		"executeWithParameters:in:" : "TorstenBergmann 1/15/2015 09:21",
+		"filter" : "guest 10/13/2015 19:31",
+		"filter:" : "guest 10/13/2015 19:31",
+		"filterResultsForParameters:" : "TorstenBergmann 1/15/2015 09:22",
+		"resultClass" : "guest 10/13/2015 19:31",
+		"shortCircuitEmptyReturn:" : "TorstenBergmann 1/15/2015 09:22",
+		"transformsValues" : "TorstenBergmann 1/15/2015 09:22",
+		"valueFor:" : "TorstenBergmann 1/15/2015 09:22" } }

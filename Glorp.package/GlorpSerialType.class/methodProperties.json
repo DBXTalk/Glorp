@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"hasParameters" : "guest 10/13/2015 19:31",
+		"hasSequence" : "guest 10/13/2015 19:31",
+		"increment" : "guest 10/13/2015 19:31",
+		"increment:" : "guest 10/13/2015 19:31",
+		"initialize" : "GuillermoPolito 5/8/2011 00:03",
+		"initializeForField:in:" : "EstebanMaringolo 4/14/2016 11:57",
+		"isGenerated" : "",
+		"isIdentityColumn" : "guest 10/13/2015 19:31",
+		"isSerial" : "guest 10/13/2015 19:31",
+		"postWriteAssignSequenceValueFor:in:using:" : "guest 10/13/2015 19:31",
+		"preWriteAssignSequenceValueFor:in:using:" : "guest 10/13/2015 19:31",
+		"printSelectSQLOn:withParameters:" : "guest 10/13/2015 19:31",
+		"sequence" : "guest 10/13/2015 19:31",
+		"sequence:" : "guest 10/13/2015 19:31" } }

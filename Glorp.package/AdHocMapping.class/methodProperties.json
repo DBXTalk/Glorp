@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"forAttribute:fromDb:toDb:mappingFields:" : "guest 10/21/2015 03:17" },
+	"instance" : {
+		"allRelationsFor:" : "guest 10/13/2015 19:31",
+		"controlsTables" : "guest 10/13/2015 19:31",
+		"convertedDbValueOf:" : "guest 10/13/2015 19:31",
+		"field" : "TorstenBergmann 1/15/2015 17:14",
+		"forAttribute:fromDb:toDb:mappingFields:" : "TorstenBergmann 1/15/2015 17:13",
+		"hasImpliedClauses" : "guest 10/13/2015 19:31",
+		"initialize" : "guest 10/13/2015 19:31",
+		"isRelationship" : "guest 10/13/2015 19:31",
+		"isStoredInSameTable" : "guest 10/13/2015 19:31",
+		"mapFromObject:intoRowsIn:" : "guest 10/13/2015 19:31",
+		"mapObject:inElementBuilder:" : "guest 10/13/2015 19:31",
+		"mappedFields" : "TorstenBergmann 1/15/2015 17:14",
+		"referencedIndependentObjectsFrom:" : "TorstenBergmann 1/15/2015 17:14",
+		"setAttribute:fromDb:toDb:mappingFields:" : "TorstenBergmann 1/15/2015 17:14",
+		"shouldProxy" : "TorstenBergmann 1/15/2015 10:54",
+		"shouldProxy:" : "TorstenBergmann 1/15/2015 10:54",
+		"trace:context:" : "TorstenBergmann 1/15/2015 17:14",
+		"valueIn:as:" : "TorstenBergmann 1/15/2015 17:14" } }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"arrayBindings" : "guest 10/13/2015 19:31",
+		"arrayBoundFields" : "guest 10/13/2015 19:31",
+		"bindingTypes" : "guest 10/13/2015 19:31",
+		"blockFactor" : "guest 10/13/2015 19:31",
+		"fieldsNeedingUpdate" : "guest 10/13/2015 19:31",
+		"needsRowCount" : "guest 10/13/2015 19:31",
+		"printSQL" : "guest 10/13/2015 19:31",
+		"shouldUpdateOnlyChangedFields" : "guest 10/13/2015 19:31",
+		"singleRowBindings" : "guest 10/13/2015 19:31",
+		"singleRowBoundFields" : "guest 10/13/2015 19:31" } }

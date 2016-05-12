@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"on:" : "TorstenBergmann 1/15/2015 17:45" },
+	"instance" : {
+		"AND:" : "guest 10/13/2015 19:31",
+		"OR:" : "guest 10/13/2015 19:31",
+		"base" : "guest 10/13/2015 19:31",
+		"base:" : "guest 10/13/2015 19:31",
+		"canHaveBase" : "guest 10/13/2015 19:31",
+		"canPrint" : "guest 10/13/2015 19:31",
+		"do:skipping:" : "guest 10/13/2015 19:31",
+		"initialize" : "guest 10/13/2015 19:31",
+		"isEmptyExpression" : "guest 10/13/2015 19:31",
+		"isFalse" : "guest 10/13/2015 19:31",
+		"isTrue" : "guest 10/13/2015 19:31",
+		"printSQLOn:withParameters:" : "guest 10/13/2015 19:31",
+		"printTreeOn:" : "guest 10/13/2015 19:31",
+		"rebuildOn:startingFrom:withOuterScopeBase:" : "guest 10/13/2015 19:31",
+		"tablesForANSIJoin" : "guest 10/13/2015 19:31",
+		"ultimateBaseExpression" : "guest 10/13/2015 19:31",
+		"value:" : "guest 10/13/2015 19:31",
+		"willPrintAsWhereClause" : "guest 10/13/2015 19:31" } }

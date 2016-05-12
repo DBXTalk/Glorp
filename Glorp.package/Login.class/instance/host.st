@@ -9,7 +9,7 @@ host
 		ifTrue: [str := self connectString.
 			portIndex := index := str indexOf: $:.
 			dbIndex := str indexOf: $_.
-			index = 0
-				ifTrue: [index := dbIndex].
-			host := str copyFrom: 1 to: index - 1.
+			index = 0 ifTrue: [index := dbIndex].
+			host := index > 0
+				ifTrue: [ str copyFrom: 1 to: index - 1 ].
 			^ host]

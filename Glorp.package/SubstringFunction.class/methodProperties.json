@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"_rewriteFunctionArguments" : "EstebanMaringolo 1/6/2016 16:20",
+		"printBasicSQLOn:withParameters:forSelect:" : "EstebanMaringolo 1/6/2016 16:23",
+		"rewriteForOracleBlobsWith:" : "guest 10/13/2015 19:31",
+		"rewriteForPostgresqlBase64BlobsWith:" : "EstebanMaringolo 5/4/2016 23:10",
+		"rewriteFunctionArgumentsWith:" : "EstebanMaringolo 1/6/2016 16:26",
+		"type" : "" } }

@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"basedOn:" : "TorstenBergmann 1/15/2015 17:50" },
+	"instance" : {
+		"addBoundExpressionsIn:to:" : "guest 10/13/2015 19:31",
+		"asExpressionJoiningSource:toTarget:" : "guest 10/13/2015 19:31",
+		"asJoin" : "guest 10/13/2015 19:31",
+		"base" : "guest 10/13/2015 19:31",
+		"base:" : "guest 10/13/2015 19:31",
+		"canHaveBase" : "guest 10/13/2015 19:31",
+		"convertedDbValueOf:" : "guest 10/13/2015 19:31",
+		"descriptor" : "guest 10/13/2015 19:31",
+		"field" : "guest 10/13/2015 19:31",
+		"get:withArguments:" : "guest 10/13/2015 19:31",
+		"getField:" : "guest 10/13/2015 19:31",
+		"getMapping:named:" : "guest 10/13/2015 19:31",
+		"isMappable" : "guest 10/13/2015 19:31",
+		"mappedFields" : "guest 10/13/2015 19:31",
+		"printOnlySelfOn:" : "guest 10/13/2015 19:31",
+		"printSQLOn:withParameters:" : "guest 10/13/2015 19:31",
+		"printSelectSQLOn:withParameters:" : "guest 10/13/2015 19:31",
+		"printTreeOn:" : "guest 10/13/2015 19:31",
+		"query" : "guest 10/13/2015 19:31",
+		"query:" : "guest 10/13/2015 19:31",
+		"rebuildOn:startingFrom:withOuterScopeBase:" : "guest 10/13/2015 19:31",
+		"type" : "guest 10/13/2015 19:31",
+		"ultimateBaseExpression" : "guest 10/13/2015 19:31" } }

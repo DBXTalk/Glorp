@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"for:" : "TorstenBergmann 1/15/2015 17:40",
+		"new" : "TorstenBergmann 1/15/2015 17:40" },
+	"instance" : {
+		"addExpression:" : "TorstenBergmann 1/15/2015 10:12",
+		"addExpression:andDo:" : "TorstenBergmann 1/15/2015 10:12",
+		"additionalExpressions" : "guest 10/13/2015 19:31",
+		"allTracings" : "TorstenBergmann 1/15/2015 10:12",
+		"alsoFetch:" : "TorstenBergmann 1/15/2015 10:12",
+		"alsoFetchExpressions" : "guest 10/13/2015 19:31",
+		"base" : "TorstenBergmann 1/15/2015 10:12",
+		"base:" : "guest 10/13/2015 19:31",
+		"copy" : "TorstenBergmann 1/15/2015 10:12",
+		"initialize" : "TorstenBergmann 1/15/2015 10:12",
+		"postCopy" : "TorstenBergmann 1/15/2015 10:13",
+		"retrievalExpressions" : "TorstenBergmann 1/15/2015 10:13",
+		"retrieve:" : "TorstenBergmann 1/15/2015 10:13",
+		"setup" : "guest 10/13/2015 19:31",
+		"tracesThrough:" : "TorstenBergmann 1/15/2015 10:13",
+		"updateBase:" : "TorstenBergmann 1/15/2015 10:13" } }

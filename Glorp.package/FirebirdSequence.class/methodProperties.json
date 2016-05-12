@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"creationString" : "guest 10/13/2015 19:31",
+		"dropString" : "guest 10/13/2015 19:31",
+		"getSequenceValueFromDatabaseFor:in:using:" : "guest 10/13/2015 19:31",
+		"postWriteAssignSequenceValueFor:in:using:" : "",
+		"reserveViaBackupMechanism:in:" : "guest 10/13/2015 19:31",
+		"reserveViaTableSelect:in:for:" : "guest 10/13/2015 19:31",
+		"tableSelectCommandFor:in:reserving:" : "guest 10/13/2015 19:31" } }

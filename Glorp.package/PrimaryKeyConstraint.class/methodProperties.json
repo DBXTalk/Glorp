@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"forTable:fields:" : "guest 10/21/2015 03:17" },
+	"instance" : {
+		"creationStringFor:" : "guest 10/13/2015 19:31",
+		"forTable:" : "guest 10/13/2015 19:31",
+		"forTable:fields:" : "guest 10/13/2015 19:31",
+		"generateName" : "guest 10/13/2015 19:31",
+		"isPrimaryKeyConstraint" : "guest 10/13/2015 19:31",
+		"isTheSameAs:" : "guest 10/13/2015 19:31",
+		"matchesPrimaryKeyConstraint:" : "guest 10/13/2015 19:31",
+		"primaryKeyConstraintName" : "guest 10/13/2015 19:31",
+		"primaryKeyFields" : "guest 10/13/2015 19:31",
+		"primaryKeyFields:" : "guest 10/13/2015 19:31" } }

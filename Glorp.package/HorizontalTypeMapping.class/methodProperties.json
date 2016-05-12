@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"forClass:" : "guest 10/21/2015 03:17" },
+	"instance" : {
+		"allDescribedConcreteClasses" : "TorstenBergmann 1/15/2015 17:25",
+		"beAbstract" : "guest 10/13/2015 19:31",
+		"isAbstract" : "guest 10/13/2015 19:31",
+		"mapFromObject:intoRowsIn:" : "guest 10/13/2015 19:31",
+		"mappedClass:" : "guest 10/13/2015 19:31",
+		"mappedFields" : "guest 10/13/2015 19:31",
+		"trace:context:" : "guest 10/13/2015 19:31" } }

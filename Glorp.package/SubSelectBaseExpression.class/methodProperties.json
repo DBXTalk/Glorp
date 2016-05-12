@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"on:" : "TorstenBergmann 1/15/2015 17:50" },
+	"instance" : {
+		"additionalExpressions" : "guest 10/13/2015 19:31",
+		"additionalExpressionsOn:" : "guest 10/13/2015 19:31",
+		"base" : "guest 10/13/2015 19:31",
+		"className" : "guest 10/13/2015 19:31",
+		"convertedDbValueOf:" : "guest 10/13/2015 19:31",
+		"descriptor" : "guest 10/13/2015 19:31",
+		"field" : "guest 10/13/2015 19:31",
+		"join" : "guest 10/13/2015 19:31",
+		"printSQLOn:withParameters:" : "guest 10/13/2015 19:31",
+		"queryLevelBaseExpression" : "guest 10/13/2015 19:31",
+		"rebuildOn:startingFrom:withOuterScopeBase:" : "guest 10/13/2015 19:31",
+		"representsDerivedObject" : "guest 10/13/2015 19:31",
+		"table" : "TorstenBergmann 1/12/2015 19:39",
+		"trueBase" : "guest 10/13/2015 19:31",
+		"trueBase:" : "guest 10/13/2015 19:31",
+		"ultimateBaseExpression" : "guest 10/13/2015 19:31",
+		"validate" : "guest 10/13/2015 19:31" } }

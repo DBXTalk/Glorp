@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicExecuteSQLString:" : "GuillermoPolito 4/17/2011 17:55",
+		"beginTransaction" : "GuillermoPolito 4/17/2011 17:55",
+		"commitTransaction" : "GuillermoPolito 4/17/2011 17:55",
+		"connect:" : "GuillermoPolito 4/17/2011 17:55",
+		"connection" : "GuillermoPolito 4/17/2011 17:56",
+		"connection:" : "GuillermoPolito 4/17/2011 17:56",
+		"connectionClass" : "GuillermoPolito 4/17/2011 17:56",
+		"isConnected" : "GuillermoPolito 4/17/2011 17:56",
+		"logout" : "GuillermoPolito 4/17/2011 17:56",
+		"rollbackTransaction" : "GuillermoPolito 4/17/2011 17:56" } }

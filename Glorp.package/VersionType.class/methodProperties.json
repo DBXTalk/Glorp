@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"underlyingType:" : "guest 10/21/2015 03:17",
+		"underlyingType:generator:" : "guest 10/21/2015 03:17" },
+	"instance" : {
+		"converterForStType:" : "guest 10/13/2015 19:31",
+		"generateOverExistingValues" : "guest 10/13/2015 19:31",
+		"generatesOverExistingValues" : "guest 10/13/2015 19:31",
+		"generatesOverExistingValues:" : "guest 10/13/2015 19:31",
+		"generator" : "guest 10/13/2015 19:31",
+		"generator:" : "guest 10/13/2015 19:31",
+		"generatorFor:" : "guest 10/13/2015 19:31",
+		"hasParameters" : "guest 10/13/2015 19:31",
+		"initialize" : "guest 10/13/2015 19:31",
+		"isGenerated" : "guest 10/13/2015 19:31",
+		"postWriteAssignSequenceValueFor:in:using:" : "guest 10/13/2015 19:31",
+		"preWriteAssignSequenceValueFor:in:using:" : "guest 10/13/2015 19:31",
+		"print:on:" : "guest 10/13/2015 19:31",
+		"typeString" : "guest 10/13/2015 19:31",
+		"underlyingType" : "guest 10/13/2015 19:31",
+		"underlyingType:" : "guest 10/13/2015 19:31",
+		"underlyingType:generator:" : "guest 10/13/2015 19:31",
+		"width" : "guest 10/13/2015 19:31" } }

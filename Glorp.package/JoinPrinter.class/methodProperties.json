@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"for:" : "TorstenBergmann 1/15/2015 17:40" },
+	"instance" : {
+		"allTables" : "TorstenBergmann 1/15/2015 10:09",
+		"nextJoin" : "TorstenBergmann 1/15/2015 10:09",
+		"printJoinsOn:" : "TorstenBergmann 1/15/2015 10:09",
+		"printLeftoverTablesOn:" : "TorstenBergmann 1/15/2015 10:09",
+		"query:" : "TorstenBergmann 1/15/2015 10:09",
+		"rootTable" : "TorstenBergmann 1/15/2015 10:09",
+		"setUp" : "TorstenBergmann 1/15/2015 10:09" } }

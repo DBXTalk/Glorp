@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addBoundExpressionsIn:to:" : "guest 10/13/2015 19:31",
+		"condensePrimaryKeyComparison" : "guest 10/13/2015 19:31",
+		"descriptor" : "guest 10/13/2015 19:31",
+		"initializeQuery" : "guest 10/13/2015 19:31",
+		"named:basedOn:withArguments:" : "guest 10/13/2015 19:31",
+		"printSQLOn:withParameters:" : "guest 10/13/2015 19:31",
+		"query" : "guest 10/13/2015 19:31",
+		"rebuildOn:startingFrom:withOuterScopeBase:" : "guest 10/13/2015 19:31" } }

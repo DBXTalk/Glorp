@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"controlsTables" : "guest 10/13/2015 19:31",
+		"defaultTransformationExpressionFor:" : "guest 10/13/2015 19:31",
+		"fieldTranslation" : "guest 10/13/2015 19:31",
+		"fieldTranslation:" : "guest 10/13/2015 19:31",
+		"fieldsForSelectStatement" : "guest 10/13/2015 19:31",
+		"hasFieldTranslation" : "guest 10/13/2015 19:31",
+		"hasTransformation" : "guest 10/13/2015 19:31",
+		"isStoredInSameTable" : "guest 10/13/2015 19:31",
+		"join" : "guest 10/13/2015 19:31",
+		"join:" : "guest 10/13/2015 19:31",
+		"joinExpressionFor:" : "guest 10/13/2015 19:31",
+		"knitFromBuilder:toBuilder:" : "guest 10/13/2015 19:31",
+		"mapFromObject:toTarget:puttingRowsIn:" : "guest 10/13/2015 19:31",
+		"mapObject:inElementBuilder:" : "guest 10/13/2015 19:31",
+		"mappedFields" : "guest 10/13/2015 19:31",
+		"reverseMapping" : "guest 10/13/2015 19:31",
+		"shouldProxy" : "guest 10/13/2015 19:31",
+		"transformationExpression" : "guest 10/13/2015 19:31",
+		"translateFields:" : "guest 10/13/2015 19:31",
+		"translateTable:" : "guest 10/13/2015 19:31",
+		"valueOfField:fromObject:ifNone:" : "guest 10/13/2015 19:31" } }

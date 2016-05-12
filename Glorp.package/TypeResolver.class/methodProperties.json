@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addMember:" : "guest 10/13/2015 19:31",
+		"allTablesFor:" : "TorstenBergmann 1/15/2015 17:25",
+		"classesRequiringIndependentQueriesFor:" : "guest 10/13/2015 19:31",
+		"describedClasses" : "TorstenBergmann 1/15/2015 17:25",
+		"describedConcreteClassFor:withBuilder:descriptor:" : "guest 10/13/2015 19:31",
+		"fieldsForSelectStatement" : "TorstenBergmann 1/15/2015 17:25",
+		"register:" : "guest 10/13/2015 19:31",
+		"register:abstract:" : "guest 10/13/2015 19:31",
+		"setUpExpressionsForQuery:" : "TorstenBergmann 1/15/2015 17:26",
+		"shouldUseSingleQuery" : "TorstenBergmann 1/15/2015 17:26",
+		"supportsOrderingFor:" : "TorstenBergmann 1/15/2015 17:26",
+		"system" : "guest 10/13/2015 19:31",
+		"system:" : "guest 10/13/2015 19:31",
+		"typeMappingRootDescriptor" : "guest 10/13/2015 19:31",
+		"usesInheritance" : "TorstenBergmann 1/15/2015 17:26",
+		"validate" : "TorstenBergmann 1/15/2015 17:26" } }

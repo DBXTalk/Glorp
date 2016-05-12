@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"next" : "guest 10/21/2015 03:17",
+		"representedBy:" : "guest 10/21/2015 03:17",
+		"reset" : "guest 10/21/2015 03:17" },
+	"instance" : {
+		"impliedSmalltalkType" : "guest 10/13/2015 19:31",
+		"isGenerated" : "guest 10/13/2015 19:31",
+		"preWriteAssignSequenceValueFor:in:using:" : "guest 10/13/2015 19:31",
+		"representedBy:" : "guest 10/13/2015 19:31",
+		"typeName" : "guest 10/13/2015 19:31",
+		"typeString" : "guest 10/13/2015 19:31" } }

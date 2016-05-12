@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"ancestorOf:" : "guest 10/21/2015 03:17",
+		"description" : "",
+		"mayResume" : "guest 10/21/2015 03:17",
+		"signal" : "guest 10/21/2015 03:17",
+		"signal:" : "guest 10/21/2015 03:17" },
+	"instance" : {
+		"ancestorOf:" : "guest 10/13/2015 19:31",
+		"databaseError" : "guest 10/13/2015 19:31",
+		"description" : "guest 10/13/2015 19:31",
+		"getMessageText" : "EstebanMaringolo 3/23/2016 11:58",
+		"getVisualAgeMessageText" : "guest 10/13/2015 19:31",
+		"getVisualWorksMessageText" : "guest 10/13/2015 19:31",
+		"isResumable" : "guest 10/13/2015 19:31",
+		"messageText" : "guest 10/13/2015 19:31",
+		"session" : "guest 10/13/2015 19:31" } }

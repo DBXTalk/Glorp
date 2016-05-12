@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"arrayBoundFields" : "guest 10/13/2015 19:31",
+		"bindingTypes" : "guest 10/13/2015 19:31",
+		"bindings" : "guest 10/13/2015 19:31",
+		"commands" : "guest 10/13/2015 19:31",
+		"hasGrouping" : "guest 10/13/2015 19:31",
+		"hasOrdering" : "guest 10/13/2015 19:31",
+		"parameters:" : "guest 10/13/2015 19:31",
+		"printSQL" : "guest 10/13/2015 19:31",
+		"requiresDistinct" : "guest 10/13/2015 19:31",
+		"requiresWrapperQuery" : "guest 10/13/2015 19:31" } }
