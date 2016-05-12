@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfGlorp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "SvenVanCaekenberghe 9/2/2014 17:11",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfGlorp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
