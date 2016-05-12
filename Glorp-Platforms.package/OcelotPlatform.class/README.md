@@ -1,1 +1,0 @@
-This is a platform for the open-source Ocelot database.
