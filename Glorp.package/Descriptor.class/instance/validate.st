@@ -12,6 +12,6 @@ validate
 		ifFalse: [MultipleMappingsForInstanceVariable new
 					model: self describedClass;
 					readableMappings: readableMappings;
-					raiseRequest].
+					signal].
 
 	self typeResolver validate.
